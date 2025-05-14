@@ -21,9 +21,7 @@ public:
         for(auto & it : buff){
             int freq = it.first;
             int ch = it.second;
-            for(int i=0;i<freq;i++){
-                ans+=ch;
-            }
+            ans.append(freq,ch);
         }
 
 
