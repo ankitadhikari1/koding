@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ankitadhikari2004/koding/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/ankitadhikari2004/koding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ankitadhikari2004/koding/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/ankitadhikari2004/koding/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ankitadhikari2004/koding/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/ankitadhikari2004/koding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ankitadhikari2004/koding/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/ankitadhikari2004/koding/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/ankitadhikari2004/koding/tree/master/0812-rotate-string) |
 ## Backtracking
 |  |
@@ -112,4 +114,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ankitadhikari2004/koding/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/ankitadhikari2004/koding/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ankitadhikari2004/koding/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ankitadhikari2004/koding/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ankitadhikari2004/koding/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
