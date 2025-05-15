@@ -1,30 +1,27 @@
 class Solution {
 public:
     string frequencySort(string s) {
-        unordered_map<char,int>mp;
+        int n = s.size();
+        unordered_map<char,int> mp;
         for(auto &it : s){
             mp[it]++;
         }
-        vector<pair<int,char>>buff;
-        for(auto &it : mp){
-            buff.push_back({it.second,it.first});
-        }
 
-        sort(buff.begin(),buff.end(),[](pair<int,char>&a,pair<int,char>&b){
-            if(a.first<b.first)return false;
-            if(b.first<a.first)return true;
-            return a.second<b.second;
-        });
+        vector<pair<int,char>> v;
+        for(auto& it : mp){
+            v.push_back({it.second , it.first});
+        }
+        sort(v.begin() , v.end());
+        reverse(v.begin() , v.end());
 
         string ans = "";
-
-        for(auto & it : buff){
-            int freq = it.first;
-            int ch = it.second;
-            ans.append(freq,ch);
+        for(int i=0; i < v.size(); i++){
+            int size = v[i].first;
+            while(size--){
+                ans += v[i].second;
+            }
         }
-
-
         return ans;
+
     }
 };
