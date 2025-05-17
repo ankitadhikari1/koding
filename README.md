@@ -58,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ankitadhikari2004/koding/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/ankitadhikari2004/koding/tree/master/0258-add-digits) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ankitadhikari2004/koding/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/ankitadhikari2004/koding/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/ankitadhikari2004/koding/tree/master/0258-add-digits) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/ankitadhikari2004/koding/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ankitadhikari2004/koding/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Dynamic Programming
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ankitadhikari2004/koding/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/ankitadhikari2004/koding/tree/master/0258-add-digits) |
 ## String Matching
 |  |
 | ------- |
