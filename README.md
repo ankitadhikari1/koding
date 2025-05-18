@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/ankitadhikari2004/koding/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/ankitadhikari2004/koding/tree/master/0054-spiral-matrix) |
+| [0118-pascals-triangle](https://github.com/ankitadhikari2004/koding/tree/master/0118-pascals-triangle) |
 | [0204-count-primes](https://github.com/ankitadhikari2004/koding/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/ankitadhikari2004/koding/tree/master/0485-max-consecutive-ones) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ankitadhikari2004/koding/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ankitadhikari2004/koding/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/ankitadhikari2004/koding/tree/master/0118-pascals-triangle) |
 | [1013-fibonacci-number](https://github.com/ankitadhikari2004/koding/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
