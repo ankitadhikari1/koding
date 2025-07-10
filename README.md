@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ankitadhikari2004/koding/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ankitadhikari2004/koding/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ankitadhikari2004/koding/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ankitadhikari2004/koding/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/ankitadhikari2004/koding/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ankitadhikari2004/koding/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/ankitadhikari2004/koding/tree/master/0169-majority-element) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ankitadhikari2004/koding/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ankitadhikari2004/koding/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ankitadhikari2004/koding/tree/master/0118-pascals-triangle) |
 | [1013-fibonacci-number](https://github.com/ankitadhikari2004/koding/tree/master/1013-fibonacci-number) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ankitadhikari2004/koding/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/ankitadhikari2004/koding/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/ankitadhikari2004/koding/tree/master/0890-lemonade-change) |
 | [3647-zero-array-transformation-iii](https://github.com/ankitadhikari2004/koding/tree/master/3647-zero-array-transformation-iii) |
