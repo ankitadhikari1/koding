@@ -24,6 +24,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/ankitadhikari2004/koding/tree/master/1505-create-target-array-in-the-given-order) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ankitadhikari2004/koding/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/ankitadhikari2004/koding/tree/master/1580-shuffle-the-array) |
+| [1656-count-good-triplets](https://github.com/ankitadhikari2004/koding/tree/master/1656-count-good-triplets) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ankitadhikari2004/koding/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ankitadhikari2004/koding/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ankitadhikari2004/koding/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -202,6 +203,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ankitadhikari2004/koding/tree/master/0204-count-primes) |
+| [1656-count-good-triplets](https://github.com/ankitadhikari2004/koding/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Number Theory
 |  |
