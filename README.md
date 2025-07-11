@@ -22,6 +22,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/ankitadhikari2004/koding/tree/master/2048-build-array-from-permutation) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/ankitadhikari2004/koding/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/ankitadhikari2004/koding/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/ankitadhikari2004/koding/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankitadhikari2004/koding/tree/master/3227-find-missing-and-repeated-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ankitadhikari2004/koding/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
