@@ -25,6 +25,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/ankitadhikari2004/koding/tree/master/3227-find-missing-and-repeated-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ankitadhikari2004/koding/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ankitadhikari2004/koding/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ankitadhikari2004/koding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3647-zero-array-transformation-iii](https://github.com/ankitadhikari2004/koding/tree/master/3647-zero-array-transformation-iii) |
 | [3778-transform-array-by-parity](https://github.com/ankitadhikari2004/koding/tree/master/3778-transform-array-by-parity) |
 ## Bit Manipulation
@@ -103,6 +104,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ankitadhikari2004/koding/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankitadhikari2004/koding/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ankitadhikari2004/koding/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ankitadhikari2004/koding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/ankitadhikari2004/koding/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/ankitadhikari2004/koding/tree/master/0782-jewels-and-stones) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankitadhikari2004/koding/tree/master/3227-find-missing-and-repeated-values) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ankitadhikari2004/koding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
