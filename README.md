@@ -28,6 +28,7 @@
 | [2454-largest-local-values-in-a-matrix](https://github.com/ankitadhikari2004/koding/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2714-left-and-right-sum-differences](https://github.com/ankitadhikari2004/koding/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ankitadhikari2004/koding/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/ankitadhikari2004/koding/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3194-find-words-containing-character](https://github.com/ankitadhikari2004/koding/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankitadhikari2004/koding/tree/master/3227-find-missing-and-repeated-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ankitadhikari2004/koding/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -42,6 +43,7 @@
 | [1610-xor-operation-in-an-array](https://github.com/ankitadhikari2004/koding/tree/master/1610-xor-operation-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ankitadhikari2004/koding/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/ankitadhikari2004/koding/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ankitadhikari2004/koding/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
