@@ -271,5 +271,6 @@
 ## Database
 |  |
 | ------- |
+| [1837-daily-leads-and-partners](https://github.com/ankitadhikari2004/koding/tree/master/1837-daily-leads-and-partners) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ankitadhikari2004/koding/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
