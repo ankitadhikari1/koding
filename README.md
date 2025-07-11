@@ -17,6 +17,7 @@
 | [0485-max-consecutive-ones](https://github.com/ankitadhikari2004/koding/tree/master/0485-max-consecutive-ones) |
 | [0658-find-k-closest-elements](https://github.com/ankitadhikari2004/koding/tree/master/0658-find-k-closest-elements) |
 | [0890-lemonade-change](https://github.com/ankitadhikari2004/koding/tree/master/0890-lemonade-change) |
+| [1580-shuffle-the-array](https://github.com/ankitadhikari2004/koding/tree/master/1580-shuffle-the-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ankitadhikari2004/koding/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/ankitadhikari2004/koding/tree/master/2048-build-array-from-permutation) |
