@@ -61,6 +61,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0145-binary-tree-postorder-traversal) |
+| [2128-reverse-prefix-of-word](https://github.com/ankitadhikari2004/koding/tree/master/2128-reverse-prefix-of-word) |
 ## Tree
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 | [0812-rotate-string](https://github.com/ankitadhikari2004/koding/tree/master/0812-rotate-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ankitadhikari2004/koding/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1797-goal-parser-interpretation](https://github.com/ankitadhikari2004/koding/tree/master/1797-goal-parser-interpretation) |
+| [2128-reverse-prefix-of-word](https://github.com/ankitadhikari2004/koding/tree/master/2128-reverse-prefix-of-word) |
 | [3194-find-words-containing-character](https://github.com/ankitadhikari2004/koding/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/ankitadhikari2004/koding/tree/master/3379-score-of-a-string) |
 | [3567-convert-date-to-binary](https://github.com/ankitadhikari2004/koding/tree/master/3567-convert-date-to-binary) |
@@ -237,6 +239,7 @@
 | [0088-merge-sorted-array](https://github.com/ankitadhikari2004/koding/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/ankitadhikari2004/koding/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/ankitadhikari2004/koding/tree/master/0658-find-k-closest-elements) |
+| [2128-reverse-prefix-of-word](https://github.com/ankitadhikari2004/koding/tree/master/2128-reverse-prefix-of-word) |
 ## Greedy
 |  |
 | ------- |
