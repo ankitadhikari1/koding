@@ -104,6 +104,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ankitadhikari2004/koding/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankitadhikari2004/koding/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ankitadhikari2004/koding/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3567-convert-date-to-binary](https://github.com/ankitadhikari2004/koding/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ankitadhikari2004/koding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
 |  |
@@ -144,6 +145,7 @@
 | [0812-rotate-string](https://github.com/ankitadhikari2004/koding/tree/master/0812-rotate-string) |
 | [3194-find-words-containing-character](https://github.com/ankitadhikari2004/koding/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/ankitadhikari2004/koding/tree/master/3379-score-of-a-string) |
+| [3567-convert-date-to-binary](https://github.com/ankitadhikari2004/koding/tree/master/3567-convert-date-to-binary) |
 ## Backtracking
 |  |
 | ------- |
