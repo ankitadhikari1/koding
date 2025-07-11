@@ -11,7 +11,7 @@ public:
                         if (abs(arr[j] - arr[k]) <= b &&
                             abs(arr[i] - arr[k]) <= c) {
                             goodTriplets++;
-                            // \U0001f94b Rock Lee: "The power of repetition is unmatched!" \U0001f501
+                            
                         }
                     }
                 }
