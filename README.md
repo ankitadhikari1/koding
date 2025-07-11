@@ -15,6 +15,7 @@
 | [0204-count-primes](https://github.com/ankitadhikari2004/koding/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/ankitadhikari2004/koding/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ankitadhikari2004/koding/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/ankitadhikari2004/koding/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/ankitadhikari2004/koding/tree/master/0658-find-k-closest-elements) |
 | [0890-lemonade-change](https://github.com/ankitadhikari2004/koding/tree/master/0890-lemonade-change) |
 | [1241-decompress-run-length-encoded-list](https://github.com/ankitadhikari2004/koding/tree/master/1241-decompress-run-length-encoded-list) |
@@ -213,6 +214,7 @@
 | [0242-valid-anagram](https://github.com/ankitadhikari2004/koding/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ankitadhikari2004/koding/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ankitadhikari2004/koding/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/ankitadhikari2004/koding/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/ankitadhikari2004/koding/tree/master/0658-find-k-closest-elements) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ankitadhikari2004/koding/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [3647-zero-array-transformation-iii](https://github.com/ankitadhikari2004/koding/tree/master/3647-zero-array-transformation-iii) |
@@ -221,6 +223,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ankitadhikari2004/koding/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/ankitadhikari2004/koding/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/ankitadhikari2004/koding/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankitadhikari2004/koding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [3647-zero-array-transformation-iii](https://github.com/ankitadhikari2004/koding/tree/master/3647-zero-array-transformation-iii) |
