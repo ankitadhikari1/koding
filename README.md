@@ -97,6 +97,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/ankitadhikari2004/koding/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/ankitadhikari2004/koding/tree/master/0258-add-digits) |
+| [1708-design-parking-system](https://github.com/ankitadhikari2004/koding/tree/master/1708-design-parking-system) |
 | [2048-build-array-from-permutation](https://github.com/ankitadhikari2004/koding/tree/master/2048-build-array-from-permutation) |
 | [3811-reverse-degree-of-a-string](https://github.com/ankitadhikari2004/koding/tree/master/3811-reverse-degree-of-a-string) |
 ## Math
@@ -212,6 +213,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/ankitadhikari2004/koding/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/ankitadhikari2004/koding/tree/master/0451-sort-characters-by-frequency) |
+| [1708-design-parking-system](https://github.com/ankitadhikari2004/koding/tree/master/1708-design-parking-system) |
 | [3778-transform-array-by-parity](https://github.com/ankitadhikari2004/koding/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankitadhikari2004/koding/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Recursion
@@ -240,6 +242,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ankitadhikari2004/koding/tree/master/0208-implement-trie-prefix-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankitadhikari2004/koding/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1708-design-parking-system](https://github.com/ankitadhikari2004/koding/tree/master/1708-design-parking-system) |
 ## Breadth-First Search
 |  |
 | ------- |
