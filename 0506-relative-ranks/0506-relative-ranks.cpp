@@ -1,28 +1,31 @@
 class Solution {
 public:
     vector<string> findRelativeRanks(vector<int>& score) {
-        vector<int>copy = score;
-        sort(copy.begin(),copy.end(),greater<int>());
-        map<int,int>mp;
-        for(int i=0;i<copy.size();i++){
-            mp[copy[i]] = i + 1;
+        int N = score.size();
+
+        // Create a max heap of pairs (score, index)
+        priority_queue<pair<int, int>> heap;
+        for (int i = 0; i < N; i++) {
+            heap.push({score[i], i});
         }
-        vector<string>ans;
-        for(int i=0;i<score.size();i++){
-            int rank = mp[score[i]];
-            if(rank==1){
-                ans.push_back("Gold Medal");
+
+        // Assign ranks to athletes
+        vector<string> rank(N);
+        int place = 1;
+        while (!heap.empty()) {
+            int originalIndex = heap.top().second;
+            heap.pop();
+            if (place == 1) {
+                rank[originalIndex] = "Gold Medal";
+            } else if (place == 2) {
+                rank[originalIndex] = "Silver Medal";
+            } else if (place == 3) {
+                rank[originalIndex] = "Bronze Medal";
+            } else {
+                rank[originalIndex] = to_string(place);
             }
-            else if(rank==2){
-                ans.push_back("Silver Medal");
-            }
-            else if(rank==3){
-                ans.push_back("Bronze Medal");
-            }
-            else{
-                ans.push_back(to_string(rank));
-            }
+            place++;
         }
-        return ans;
+        return rank;
     }
 };
