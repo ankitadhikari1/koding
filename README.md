@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/ankitadhikari2004/koding/tree/master/3227-find-missing-and-repeated-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ankitadhikari2004/koding/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3647-zero-array-transformation-iii](https://github.com/ankitadhikari2004/koding/tree/master/3647-zero-array-transformation-iii) |
+| [3778-transform-array-by-parity](https://github.com/ankitadhikari2004/koding/tree/master/3778-transform-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ankitadhikari2004/koding/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/ankitadhikari2004/koding/tree/master/0658-find-k-closest-elements) |
 | [3647-zero-array-transformation-iii](https://github.com/ankitadhikari2004/koding/tree/master/3647-zero-array-transformation-iii) |
+| [3778-transform-array-by-parity](https://github.com/ankitadhikari2004/koding/tree/master/3778-transform-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ankitadhikari2004/koding/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/ankitadhikari2004/koding/tree/master/0451-sort-characters-by-frequency) |
+| [3778-transform-array-by-parity](https://github.com/ankitadhikari2004/koding/tree/master/3778-transform-array-by-parity) |
 ## Recursion
 |  |
 | ------- |
