@@ -19,6 +19,7 @@
 | [0455-assign-cookies](https://github.com/ankitadhikari2004/koding/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ankitadhikari2004/koding/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/ankitadhikari2004/koding/tree/master/0506-relative-ranks) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ankitadhikari2004/koding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ankitadhikari2004/koding/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/ankitadhikari2004/koding/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/ankitadhikari2004/koding/tree/master/0890-lemonade-change) |
@@ -324,6 +325,7 @@
 | [0069-sqrtx](https://github.com/ankitadhikari2004/koding/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ankitadhikari2004/koding/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankitadhikari2004/koding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ankitadhikari2004/koding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ankitadhikari2004/koding/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankitadhikari2004/koding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/ankitadhikari2004/koding/tree/master/0792-binary-search) |
