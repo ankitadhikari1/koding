@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ankitadhikari2004/koding/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ankitadhikari2004/koding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/ankitadhikari2004/koding/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/ankitadhikari2004/koding/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/ankitadhikari2004/koding/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ankitadhikari2004/koding/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ankitadhikari2004/koding/tree/master/0055-jump-game) |
@@ -224,6 +225,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankitadhikari2004/koding/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ankitadhikari2004/koding/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/ankitadhikari2004/koding/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/ankitadhikari2004/koding/tree/master/0078-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
