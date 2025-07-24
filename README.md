@@ -166,6 +166,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ankitadhikari2004/koding/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/ankitadhikari2004/koding/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ankitadhikari2004/koding/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ankitadhikari2004/koding/tree/master/0118-pascals-triangle) |
@@ -198,6 +199,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitadhikari2004/koding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/ankitadhikari2004/koding/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/ankitadhikari2004/koding/tree/master/0022-generate-parentheses) |
 | [0205-isomorphic-strings](https://github.com/ankitadhikari2004/koding/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/ankitadhikari2004/koding/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/ankitadhikari2004/koding/tree/master/0242-valid-anagram) |
@@ -218,6 +220,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ankitadhikari2004/koding/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ankitadhikari2004/koding/tree/master/0037-sudoku-solver) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
