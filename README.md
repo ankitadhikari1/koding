@@ -383,6 +383,7 @@
 | ------- |
 | [0584-find-customer-referee](https://github.com/ankitadhikari2004/koding/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/ankitadhikari2004/koding/tree/master/0595-big-countries) |
+| [1258-article-views-i](https://github.com/ankitadhikari2004/koding/tree/master/1258-article-views-i) |
 | [1837-daily-leads-and-partners](https://github.com/ankitadhikari2004/koding/tree/master/1837-daily-leads-and-partners) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ankitadhikari2004/koding/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/ankitadhikari2004/koding/tree/master/1948-rearrange-products-table) |
