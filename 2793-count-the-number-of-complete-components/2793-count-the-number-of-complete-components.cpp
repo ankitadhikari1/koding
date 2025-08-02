@@ -1,54 +1,41 @@
 class Solution {
 public:
-
-    bool func(int origin ,vector<int>&vis , vector<int>adj[] ){
-        vector<int>track;
-        track.push_back(origin);
-        queue<int>q;
-        vis[origin] = 1;
-        q.push(origin);
-        while(!q.empty()){
-            int node = q.front();
-            q.pop();
-            for(auto & it : adj[node]){
-                if(!vis[it]){
-                    vis[it] = 1;
-                    track.push_back(it);
-                    q.push(it);
-                }
-            }
+    void dfs(int u,map<int,vector<int>>& adj,vector<bool>& vis,vector<int>& comp) {
+        vis[u] = true;
+        comp.push_back(u);
+        for (int v:adj[u]) {
+            if (!vis[v]) dfs(v,adj,vis,comp);
         }
-        int size = track.size() - 1;
-        for(int i=0;i<=size;i++){
-            if(adj[track[i]].size()!=size){
-                return false;
-            }
-        }
-        return true;
     }
-    
-
 
     int countCompleteComponents(int n, vector<vector<int>>& edges) {
-        vector<int>adj[n];
-        for(auto & it : edges){
-            adj[it[0]].push_back(it[1]);
-            adj[it[1]].push_back(it[0]);
+        map<int,vector<int>> adj;
+        for (auto &e:edges) {
+            int u=e[0],v=e[1];
+            adj[u].push_back(v);
+            adj[v].push_back(u);
         }
-        
-        int cnt = 0;
-        vector<int>vis(n,0);
-        for(int i=0;i<n;i++){
-            if(!vis[i]){
-                bool check = func(i,vis,adj);
-                if(check){
-                    cnt++;
+        vector<bool>vis(n);
+        int ans=0;
+        for (int i=0;i<n;i++) {
+            if (!vis[i]) {
+                vector<int> comp;
+                dfs(i,adj,vis,comp);
+                int s=comp.size();
+                bool isval=true;
+                for(auto u:comp)
+                {
+                    if(adj[u].size()!=s-1)
+                    {
+                        isval=false;
+                    }
+                }
+                if(isval)
+                {
+                    ans++;
                 }
             }
         }
-        
-        return cnt;
+        return ans;
     }
 };
-
-
