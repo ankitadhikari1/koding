@@ -131,6 +131,7 @@
 | [0801-is-graph-bipartite](https://github.com/ankitadhikari2004/koding/tree/master/0801-is-graph-bipartite) |
 | [0975-range-sum-of-bst](https://github.com/ankitadhikari2004/koding/tree/master/0975-range-sum-of-bst) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ankitadhikari2004/koding/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/ankitadhikari2004/koding/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -393,6 +394,7 @@
 | [0945-snakes-and-ladders](https://github.com/ankitadhikari2004/koding/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/ankitadhikari2004/koding/tree/master/1036-rotting-oranges) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ankitadhikari2004/koding/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/ankitadhikari2004/koding/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -442,6 +444,7 @@
 | [0210-course-schedule-ii](https://github.com/ankitadhikari2004/koding/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/ankitadhikari2004/koding/tree/master/0801-is-graph-bipartite) |
 | [1916-find-center-of-star-graph](https://github.com/ankitadhikari2004/koding/tree/master/1916-find-center-of-star-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/ankitadhikari2004/koding/tree/master/2793-count-the-number-of-complete-components) |
 ## Linked List
 |  |
 | ------- |
@@ -453,6 +456,7 @@
 | [0130-surrounded-regions](https://github.com/ankitadhikari2004/koding/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ankitadhikari2004/koding/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/ankitadhikari2004/koding/tree/master/0801-is-graph-bipartite) |
+| [2793-count-the-number-of-complete-components](https://github.com/ankitadhikari2004/koding/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
