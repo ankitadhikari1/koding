@@ -115,6 +115,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankitadhikari2004/koding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/ankitadhikari2004/koding/tree/master/0975-range-sum-of-bst) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/ankitadhikari2004/koding/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ankitadhikari2004/koding/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Depth-First Search
 |  |
@@ -130,6 +131,7 @@
 | [0733-flood-fill](https://github.com/ankitadhikari2004/koding/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/ankitadhikari2004/koding/tree/master/0801-is-graph-bipartite) |
 | [0975-range-sum-of-bst](https://github.com/ankitadhikari2004/koding/tree/master/0975-range-sum-of-bst) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/ankitadhikari2004/koding/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ankitadhikari2004/koding/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/ankitadhikari2004/koding/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -393,6 +395,7 @@
 | [0801-is-graph-bipartite](https://github.com/ankitadhikari2004/koding/tree/master/0801-is-graph-bipartite) |
 | [0945-snakes-and-ladders](https://github.com/ankitadhikari2004/koding/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/ankitadhikari2004/koding/tree/master/1036-rotting-oranges) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/ankitadhikari2004/koding/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ankitadhikari2004/koding/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/ankitadhikari2004/koding/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Search Tree
