@@ -138,6 +138,7 @@
 | [0690-employee-importance](https://github.com/ankitadhikari2004/koding/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/ankitadhikari2004/koding/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ankitadhikari2004/koding/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/ankitadhikari2004/koding/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/ankitadhikari2004/koding/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/ankitadhikari2004/koding/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/ankitadhikari2004/koding/tree/master/0922-possible-bipartition) |
@@ -342,6 +343,7 @@
 | [0506-relative-ranks](https://github.com/ankitadhikari2004/koding/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/ankitadhikari2004/koding/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ankitadhikari2004/koding/tree/master/0692-top-k-frequent-words) |
+| [0744-network-delay-time](https://github.com/ankitadhikari2004/koding/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankitadhikari2004/koding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/ankitadhikari2004/koding/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankitadhikari2004/koding/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -414,6 +416,7 @@
 | [0690-employee-importance](https://github.com/ankitadhikari2004/koding/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/ankitadhikari2004/koding/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ankitadhikari2004/koding/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/ankitadhikari2004/koding/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/ankitadhikari2004/koding/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/ankitadhikari2004/koding/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/ankitadhikari2004/koding/tree/master/0922-possible-bipartition) |
@@ -473,6 +476,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/ankitadhikari2004/koding/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ankitadhikari2004/koding/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/ankitadhikari2004/koding/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/ankitadhikari2004/koding/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/ankitadhikari2004/koding/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/ankitadhikari2004/koding/tree/master/0922-possible-bipartition) |
@@ -498,4 +502,8 @@
 | ------- |
 | [0207-course-schedule](https://github.com/ankitadhikari2004/koding/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ankitadhikari2004/koding/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/ankitadhikari2004/koding/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
