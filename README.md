@@ -285,6 +285,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ankitadhikari2004/koding/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/ankitadhikari2004/koding/tree/master/1797-goal-parser-interpretation) |
 | [2128-reverse-prefix-of-word](https://github.com/ankitadhikari2004/koding/tree/master/2128-reverse-prefix-of-word) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/ankitadhikari2004/koding/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2406-decode-the-message](https://github.com/ankitadhikari2004/koding/tree/master/2406-decode-the-message) |
 | [3194-find-words-containing-character](https://github.com/ankitadhikari2004/koding/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/ankitadhikari2004/koding/tree/master/3379-score-of-a-string) |
