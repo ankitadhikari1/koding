@@ -83,6 +83,7 @@
 | ------- |
 | [0078-subsets](https://github.com/ankitadhikari2004/koding/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ankitadhikari2004/koding/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/ankitadhikari2004/koding/tree/master/0190-reverse-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/ankitadhikari2004/koding/tree/master/1610-xor-operation-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ankitadhikari2004/koding/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -393,6 +394,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ankitadhikari2004/koding/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/ankitadhikari2004/koding/tree/master/0190-reverse-bits) |
 ## Two Pointers
 |  |
 | ------- |
