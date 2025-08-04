@@ -18,6 +18,7 @@
 | [0088-merge-sorted-array](https://github.com/ankitadhikari2004/koding/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ankitadhikari2004/koding/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/ankitadhikari2004/koding/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/ankitadhikari2004/koding/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ankitadhikari2004/koding/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankitadhikari2004/koding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ankitadhikari2004/koding/tree/master/0162-find-peak-element) |
@@ -249,6 +250,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankitadhikari2004/koding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/ankitadhikari2004/koding/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/ankitadhikari2004/koding/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/ankitadhikari2004/koding/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ankitadhikari2004/koding/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ankitadhikari2004/koding/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/ankitadhikari2004/koding/tree/master/0208-implement-trie-prefix-tree) |
@@ -512,6 +514,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ankitadhikari2004/koding/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ankitadhikari2004/koding/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ankitadhikari2004/koding/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ankitadhikari2004/koding/tree/master/0695-max-area-of-island) |
