@@ -130,6 +130,7 @@
 | [0690-employee-importance](https://github.com/ankitadhikari2004/koding/tree/master/0690-employee-importance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankitadhikari2004/koding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/ankitadhikari2004/koding/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/ankitadhikari2004/koding/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ankitadhikari2004/koding/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Depth-First Search
@@ -155,6 +156,7 @@
 | [0871-keys-and-rooms](https://github.com/ankitadhikari2004/koding/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/ankitadhikari2004/koding/tree/master/0922-possible-bipartition) |
 | [0975-range-sum-of-bst](https://github.com/ankitadhikari2004/koding/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1104-coloring-a-border](https://github.com/ankitadhikari2004/koding/tree/master/1104-coloring-a-border) |
 | [1380-number-of-closed-islands](https://github.com/ankitadhikari2004/koding/tree/master/1380-number-of-closed-islands) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/ankitadhikari2004/koding/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -174,6 +176,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankitadhikari2004/koding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/ankitadhikari2004/koding/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ankitadhikari2004/koding/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Matrix
 |  |
@@ -272,6 +275,7 @@
 | [0690-employee-importance](https://github.com/ankitadhikari2004/koding/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/ankitadhikari2004/koding/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/ankitadhikari2004/koding/tree/master/0782-jewels-and-stones) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2406-decode-the-message](https://github.com/ankitadhikari2004/koding/tree/master/2406-decode-the-message) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ankitadhikari2004/koding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankitadhikari2004/koding/tree/master/3227-find-missing-and-repeated-values) |
@@ -353,6 +357,7 @@
 | [0506-relative-ranks](https://github.com/ankitadhikari2004/koding/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/ankitadhikari2004/koding/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ankitadhikari2004/koding/tree/master/0692-top-k-frequent-words) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankitadhikari2004/koding/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ankitadhikari2004/koding/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ankitadhikari2004/koding/tree/master/1675-magnetic-force-between-two-balls) |
@@ -457,6 +462,7 @@
 | [0871-keys-and-rooms](https://github.com/ankitadhikari2004/koding/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/ankitadhikari2004/koding/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/ankitadhikari2004/koding/tree/master/0945-snakes-and-ladders) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ankitadhikari2004/koding/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/ankitadhikari2004/koding/tree/master/1104-coloring-a-border) |
 | [1117-as-far-from-land-as-possible](https://github.com/ankitadhikari2004/koding/tree/master/1117-as-far-from-land-as-possible) |
