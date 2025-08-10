@@ -127,6 +127,7 @@
 | [0112-path-sum](https://github.com/ankitadhikari2004/koding/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/ankitadhikari2004/koding/tree/master/0257-binary-tree-paths) |
 | [0690-employee-importance](https://github.com/ankitadhikari2004/koding/tree/master/0690-employee-importance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankitadhikari2004/koding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/ankitadhikari2004/koding/tree/master/0975-range-sum-of-bst) |
@@ -146,6 +147,7 @@
 | [0200-number-of-islands](https://github.com/ankitadhikari2004/koding/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ankitadhikari2004/koding/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ankitadhikari2004/koding/tree/master/0210-course-schedule-ii) |
+| [0257-binary-tree-paths](https://github.com/ankitadhikari2004/koding/tree/master/0257-binary-tree-paths) |
 | [0690-employee-importance](https://github.com/ankitadhikari2004/koding/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/ankitadhikari2004/koding/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ankitadhikari2004/koding/tree/master/0733-flood-fill) |
@@ -174,6 +176,7 @@
 | [0112-path-sum](https://github.com/ankitadhikari2004/koding/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/ankitadhikari2004/koding/tree/master/0257-binary-tree-paths) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankitadhikari2004/koding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/ankitadhikari2004/koding/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -293,6 +296,7 @@
 | [0205-isomorphic-strings](https://github.com/ankitadhikari2004/koding/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/ankitadhikari2004/koding/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/ankitadhikari2004/koding/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/ankitadhikari2004/koding/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/ankitadhikari2004/koding/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/ankitadhikari2004/koding/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/ankitadhikari2004/koding/tree/master/0782-jewels-and-stones) |
@@ -321,6 +325,7 @@
 | [0079-word-search](https://github.com/ankitadhikari2004/koding/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ankitadhikari2004/koding/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/ankitadhikari2004/koding/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/ankitadhikari2004/koding/tree/master/0257-binary-tree-paths) |
 | [0813-all-paths-from-source-to-target](https://github.com/ankitadhikari2004/koding/tree/master/0813-all-paths-from-source-to-target) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
