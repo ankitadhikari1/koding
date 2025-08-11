@@ -88,6 +88,7 @@
 | [0078-subsets](https://github.com/ankitadhikari2004/koding/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ankitadhikari2004/koding/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/ankitadhikari2004/koding/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/ankitadhikari2004/koding/tree/master/0222-count-complete-tree-nodes) |
 | [1610-xor-operation-in-an-array](https://github.com/ankitadhikari2004/koding/tree/master/1610-xor-operation-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ankitadhikari2004/koding/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -129,6 +130,7 @@
 | [0112-path-sum](https://github.com/ankitadhikari2004/koding/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/ankitadhikari2004/koding/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankitadhikari2004/koding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/ankitadhikari2004/koding/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/0662-maximum-width-of-binary-tree) |
@@ -184,6 +186,7 @@
 | [0112-path-sum](https://github.com/ankitadhikari2004/koding/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/ankitadhikari2004/koding/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankitadhikari2004/koding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/ankitadhikari2004/koding/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/0662-maximum-width-of-binary-tree) |
@@ -503,6 +506,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ankitadhikari2004/koding/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankitadhikari2004/koding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ankitadhikari2004/koding/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/ankitadhikari2004/koding/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankitadhikari2004/koding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitadhikari2004/koding/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/ankitadhikari2004/koding/tree/master/0410-split-array-largest-sum) |
