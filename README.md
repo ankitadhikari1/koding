@@ -138,6 +138,7 @@
 | [0226-invert-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankitadhikari2004/koding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/ankitadhikari2004/koding/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/ankitadhikari2004/koding/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/0662-maximum-width-of-binary-tree) |
 | [0690-employee-importance](https://github.com/ankitadhikari2004/koding/tree/master/0690-employee-importance) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ankitadhikari2004/koding/tree/master/0783-search-in-a-binary-search-tree) |
@@ -199,6 +200,7 @@
 | [0226-invert-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankitadhikari2004/koding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/ankitadhikari2004/koding/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/ankitadhikari2004/koding/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ankitadhikari2004/koding/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankitadhikari2004/koding/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -526,6 +528,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankitadhikari2004/koding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitadhikari2004/koding/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/ankitadhikari2004/koding/tree/master/0410-split-array-largest-sum) |
+| [0450-delete-node-in-a-bst](https://github.com/ankitadhikari2004/koding/tree/master/0450-delete-node-in-a-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankitadhikari2004/koding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ankitadhikari2004/koding/tree/master/0658-find-k-closest-elements) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ankitadhikari2004/koding/tree/master/0783-search-in-a-binary-search-tree) |
