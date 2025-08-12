@@ -121,6 +121,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/ankitadhikari2004/koding/tree/master/0173-binary-search-tree-iterator) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/ankitadhikari2004/koding/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/ankitadhikari2004/koding/tree/master/2128-reverse-prefix-of-word) |
@@ -137,6 +138,7 @@
 | [0112-path-sum](https://github.com/ankitadhikari2004/koding/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/ankitadhikari2004/koding/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/ankitadhikari2004/koding/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ankitadhikari2004/koding/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -206,6 +208,7 @@
 | [0112-path-sum](https://github.com/ankitadhikari2004/koding/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/ankitadhikari2004/koding/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/ankitadhikari2004/koding/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ankitadhikari2004/koding/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -489,6 +492,7 @@
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ankitadhikari2004/koding/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/ankitadhikari2004/koding/tree/master/0208-implement-trie-prefix-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankitadhikari2004/koding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1708-design-parking-system](https://github.com/ankitadhikari2004/koding/tree/master/1708-design-parking-system) |
@@ -538,6 +542,7 @@
 | [0098-validate-binary-search-tree](https://github.com/ankitadhikari2004/koding/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankitadhikari2004/koding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ankitadhikari2004/koding/tree/master/0162-find-peak-element) |
+| [0173-binary-search-tree-iterator](https://github.com/ankitadhikari2004/koding/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/ankitadhikari2004/koding/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ankitadhikari2004/koding/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankitadhikari2004/koding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -647,4 +652,8 @@
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ankitadhikari2004/koding/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
