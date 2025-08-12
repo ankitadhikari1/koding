@@ -126,6 +126,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/ankitadhikari2004/koding/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -154,6 +155,7 @@
 | ------- |
 | [0079-word-search](https://github.com/ankitadhikari2004/koding/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/ankitadhikari2004/koding/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankitadhikari2004/koding/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/ankitadhikari2004/koding/tree/master/0130-surrounded-regions) |
@@ -190,6 +192,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/ankitadhikari2004/koding/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -525,6 +528,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ankitadhikari2004/koding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/ankitadhikari2004/koding/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ankitadhikari2004/koding/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0098-validate-binary-search-tree](https://github.com/ankitadhikari2004/koding/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankitadhikari2004/koding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ankitadhikari2004/koding/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/ankitadhikari2004/koding/tree/master/0222-count-complete-tree-nodes) |
