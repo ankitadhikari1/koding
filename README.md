@@ -184,6 +184,7 @@
 | [0801-is-graph-bipartite](https://github.com/ankitadhikari2004/koding/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ankitadhikari2004/koding/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/ankitadhikari2004/koding/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/ankitadhikari2004/koding/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/ankitadhikari2004/koding/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/ankitadhikari2004/koding/tree/master/0922-possible-bipartition) |
 | [0975-range-sum-of-bst](https://github.com/ankitadhikari2004/koding/tree/master/0975-range-sum-of-bst) |
@@ -520,6 +521,7 @@
 | [0801-is-graph-bipartite](https://github.com/ankitadhikari2004/koding/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ankitadhikari2004/koding/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/ankitadhikari2004/koding/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/ankitadhikari2004/koding/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/ankitadhikari2004/koding/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/ankitadhikari2004/koding/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/ankitadhikari2004/koding/tree/master/0945-snakes-and-ladders) |
@@ -613,6 +615,7 @@
 | [0801-is-graph-bipartite](https://github.com/ankitadhikari2004/koding/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ankitadhikari2004/koding/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/ankitadhikari2004/koding/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/ankitadhikari2004/koding/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/ankitadhikari2004/koding/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/ankitadhikari2004/koding/tree/master/0922-possible-bipartition) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ankitadhikari2004/koding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -644,6 +647,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/ankitadhikari2004/koding/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ankitadhikari2004/koding/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/ankitadhikari2004/koding/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ankitadhikari2004/koding/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
