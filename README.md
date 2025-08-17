@@ -12,6 +12,7 @@
 | [0051-n-queens](https://github.com/ankitadhikari2004/koding/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/ankitadhikari2004/koding/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ankitadhikari2004/koding/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/ankitadhikari2004/koding/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/ankitadhikari2004/koding/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ankitadhikari2004/koding/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ankitadhikari2004/koding/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -232,6 +233,7 @@
 | [0037-sudoku-solver](https://github.com/ankitadhikari2004/koding/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ankitadhikari2004/koding/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ankitadhikari2004/koding/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/ankitadhikari2004/koding/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/ankitadhikari2004/koding/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ankitadhikari2004/koding/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ankitadhikari2004/koding/tree/master/0200-number-of-islands) |
@@ -291,6 +293,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankitadhikari2004/koding/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/ankitadhikari2004/koding/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/ankitadhikari2004/koding/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ankitadhikari2004/koding/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ankitadhikari2004/koding/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ankitadhikari2004/koding/tree/master/0119-pascals-triangle-ii) |
