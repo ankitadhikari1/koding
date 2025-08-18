@@ -74,6 +74,7 @@
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ankitadhikari2004/koding/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/ankitadhikari2004/koding/tree/master/2048-build-array-from-permutation) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankitadhikari2004/koding/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ankitadhikari2004/koding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/ankitadhikari2004/koding/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ankitadhikari2004/koding/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -100,6 +101,7 @@
 | [1610-xor-operation-in-an-array](https://github.com/ankitadhikari2004/koding/tree/master/1610-xor-operation-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ankitadhikari2004/koding/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankitadhikari2004/koding/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/ankitadhikari2004/koding/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ankitadhikari2004/koding/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
@@ -318,6 +320,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ankitadhikari2004/koding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1559-cherry-pickup-ii](https://github.com/ankitadhikari2004/koding/tree/master/1559-cherry-pickup-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ankitadhikari2004/koding/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankitadhikari2004/koding/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Memoization
 |  |
 | ------- |
@@ -495,6 +498,7 @@
 | [0658-find-k-closest-elements](https://github.com/ankitadhikari2004/koding/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/0908-middle-of-the-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/ankitadhikari2004/koding/tree/master/2128-reverse-prefix-of-word) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankitadhikari2004/koding/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -582,6 +586,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankitadhikari2004/koding/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ankitadhikari2004/koding/tree/master/1675-magnetic-force-between-two-balls) |
 | [1753-path-with-minimum-effort](https://github.com/ankitadhikari2004/koding/tree/master/1753-path-with-minimum-effort) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankitadhikari2004/koding/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Data Stream
 |  |
 | ------- |
@@ -681,4 +686,12 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ankitadhikari2004/koding/tree/master/0173-binary-search-tree-iterator) |
+## Ordered Set
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankitadhikari2004/koding/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankitadhikari2004/koding/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
