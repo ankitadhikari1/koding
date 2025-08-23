@@ -18,7 +18,7 @@ public:
             for(auto & it : adj[node]){
                 int currNode = it.first;
                 int currDist = it.second;
-                if(currDist + cost < dist[currNode] && stops<=k){
+                if(currDist + cost < dist[currNode]){
                     dist[currNode] = currDist + cost;
                     q.push({stops+1,{currNode,dist[currNode]}});
                 }
