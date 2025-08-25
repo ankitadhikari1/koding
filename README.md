@@ -13,6 +13,7 @@
 | [0054-spiral-matrix](https://github.com/ankitadhikari2004/koding/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ankitadhikari2004/koding/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ankitadhikari2004/koding/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ankitadhikari2004/koding/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/ankitadhikari2004/koding/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ankitadhikari2004/koding/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ankitadhikari2004/koding/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -250,6 +251,7 @@
 | [0048-rotate-image](https://github.com/ankitadhikari2004/koding/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ankitadhikari2004/koding/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/ankitadhikari2004/koding/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ankitadhikari2004/koding/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ankitadhikari2004/koding/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ankitadhikari2004/koding/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ankitadhikari2004/koding/tree/master/0200-number-of-islands) |
@@ -344,6 +346,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitadhikari2004/koding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankitadhikari2004/koding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/ankitadhikari2004/koding/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/ankitadhikari2004/koding/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/ankitadhikari2004/koding/tree/master/0127-word-ladder) |
