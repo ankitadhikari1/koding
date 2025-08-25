@@ -377,6 +377,7 @@
 | [0014-longest-common-prefix](https://github.com/ankitadhikari2004/koding/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankitadhikari2004/koding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ankitadhikari2004/koding/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitadhikari2004/koding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/ankitadhikari2004/koding/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/ankitadhikari2004/koding/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/ankitadhikari2004/koding/tree/master/0205-isomorphic-strings) |
@@ -428,6 +429,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitadhikari2004/koding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/ankitadhikari2004/koding/tree/master/0812-rotate-string) |
 ## Trie
 |  |
@@ -513,6 +515,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitadhikari2004/koding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/ankitadhikari2004/koding/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitadhikari2004/koding/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ankitadhikari2004/koding/tree/master/0455-assign-cookies) |
