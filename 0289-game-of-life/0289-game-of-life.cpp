@@ -1,29 +1,39 @@
 class Solution {
 public:
-    void gameOfLife(vector<vector<int>>& board) {
-        int n = board.size();
-        int m = board[0].size();
 
-        vector<vector<int>> temp = board;  
-
-        for (int row = 0; row < n; ++row) {
-            for (int col = 0; col < m; ++col) {
-                int live = 0;
-                for (int i = -1; i <= 1; ++i) {
-                    for (int j = -1; j <= 1; ++j) {
-                        if (i == 0 && j == 0) continue;          
-                        int nx = row + i, ny = col + j;
-                        if (nx >= 0 && nx < n && ny >= 0 && ny < m && temp[nx][ny] == 1)
-                            ++live;
-                    }
+    bool isValidNeighbor(int x, int y, vector<vector<int>>& board) {
+        return (x >= 0 && x < board.size() && y >= 0 && y < board[0].size());
+    }
+    
+    void gameOfLife(vector<vector<int>>& board) { 
+        vector<int> dx = {0, 0, 1, 1, 1, -1, -1, -1}; //8 coordinated for neighbours
+        vector<int> dy = {1, -1, 1, -1, 0, 0, 1, -1};
+        
+        for (int row = 0; row < board.size(); row++) {
+            for (int col = 0; col < board[0].size(); col++) {
+                
+                int count_live_neighbors = 0;
+                
+                for (int i = 0; i < 8; i++) {
+                    int curr_x = row + dx[i], curr_y = col +dy[i];
+                    if (isValidNeighbor(curr_x, curr_y, board) && abs(board[curr_x][curr_y]) == 1)
+                        count_live_neighbors++;
                 }
-                int val = temp[row][col];                         
-                if (val == 1) {
-                    if (live < 2 || live > 3) board[row][col] = 0;
-                    
-                } else {
-                    if (live == 3) board[row][col] = 1;
-                }
+                
+                if (board[row][col] == 1 && (count_live_neighbors < 2 || count_live_neighbors > 3))
+                    board[row][col] = -1;
+                
+                if (board[row][col] == 0 && count_live_neighbors == 3)
+                    board[row][col] = 2;
+            }
+        }
+        
+        for (int row = 0; row < board.size(); row++) {
+            for (int col = 0; col < board[0].size(); col++) {
+                if (board[row][col] >= 1)
+                    board[row][col] = 1;
+                else
+                    board[row][col] = 0;
             }
         }
     }
