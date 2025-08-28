@@ -61,6 +61,7 @@
 | [1036-rotting-oranges](https://github.com/ankitadhikari2004/koding/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankitadhikari2004/koding/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/ankitadhikari2004/koding/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1104-coloring-a-border](https://github.com/ankitadhikari2004/koding/tree/master/1104-coloring-a-border) |
 | [1117-as-far-from-land-as-possible](https://github.com/ankitadhikari2004/koding/tree/master/1117-as-far-from-land-as-possible) |
 | [1127-last-stone-weight](https://github.com/ankitadhikari2004/koding/tree/master/1127-last-stone-weight) |
@@ -611,6 +612,7 @@
 | [0975-range-sum-of-bst](https://github.com/ankitadhikari2004/koding/tree/master/0975-range-sum-of-bst) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankitadhikari2004/koding/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/ankitadhikari2004/koding/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ankitadhikari2004/koding/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankitadhikari2004/koding/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankitadhikari2004/koding/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
