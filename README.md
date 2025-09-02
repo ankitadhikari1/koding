@@ -25,6 +25,7 @@
 | [0118-pascals-triangle](https://github.com/ankitadhikari2004/koding/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ankitadhikari2004/koding/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/ankitadhikari2004/koding/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitadhikari2004/koding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankitadhikari2004/koding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ankitadhikari2004/koding/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/ankitadhikari2004/koding/tree/master/0128-longest-consecutive-sequence) |
@@ -323,6 +324,7 @@
 | [0118-pascals-triangle](https://github.com/ankitadhikari2004/koding/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ankitadhikari2004/koding/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/ankitadhikari2004/koding/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitadhikari2004/koding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankitadhikari2004/koding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ankitadhikari2004/koding/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ankitadhikari2004/koding/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
