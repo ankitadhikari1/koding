@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    void dfs(string src , string dst , double&ans , double prod ,unordered_set<string>&vis,unordered_map<string, vector<pair<string,double>>>& adj ){
+    void dfs(string src , string dst , double&ans , double prod ,unordered_set<string>&vis,unordered_map<string , vector<pair<string,double>>>&adj ){
         if(adj.find(src)==adj.end()){
             return;
         }
