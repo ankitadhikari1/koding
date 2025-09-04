@@ -439,6 +439,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/ankitadhikari2004/koding/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/ankitadhikari2004/koding/tree/master/1656-count-good-triplets) |
+| [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/ankitadhikari2004/koding/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Number Theory
 |  |
@@ -702,6 +703,7 @@
 | [1039-find-the-town-judge](https://github.com/ankitadhikari2004/koding/tree/master/1039-find-the-town-judge) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/ankitadhikari2004/koding/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ankitadhikari2004/koding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/ankitadhikari2004/koding/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1916-find-center-of-star-graph](https://github.com/ankitadhikari2004/koding/tree/master/1916-find-center-of-star-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ankitadhikari2004/koding/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ankitadhikari2004/koding/tree/master/2121-find-if-path-exists-in-graph) |
