@@ -93,6 +93,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ankitadhikari2004/koding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/ankitadhikari2004/koding/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ankitadhikari2004/koding/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/ankitadhikari2004/koding/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2714-left-and-right-sum-differences](https://github.com/ankitadhikari2004/koding/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ankitadhikari2004/koding/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/ankitadhikari2004/koding/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -477,6 +478,7 @@
 | [2379-maximum-total-importance-of-roads](https://github.com/ankitadhikari2004/koding/tree/master/2379-maximum-total-importance-of-roads) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ankitadhikari2004/koding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ankitadhikari2004/koding/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/ankitadhikari2004/koding/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [3226-minimum-number-game](https://github.com/ankitadhikari2004/koding/tree/master/3226-minimum-number-game) |
 | [3647-zero-array-transformation-iii](https://github.com/ankitadhikari2004/koding/tree/master/3647-zero-array-transformation-iii) |
 | [3778-transform-array-by-parity](https://github.com/ankitadhikari2004/koding/tree/master/3778-transform-array-by-parity) |
@@ -500,6 +502,7 @@
 | [2379-maximum-total-importance-of-roads](https://github.com/ankitadhikari2004/koding/tree/master/2379-maximum-total-importance-of-roads) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ankitadhikari2004/koding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ankitadhikari2004/koding/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/ankitadhikari2004/koding/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [3226-minimum-number-game](https://github.com/ankitadhikari2004/koding/tree/master/3226-minimum-number-game) |
 | [3647-zero-array-transformation-iii](https://github.com/ankitadhikari2004/koding/tree/master/3647-zero-array-transformation-iii) |
 ## Bucket Sort
@@ -557,6 +560,7 @@
 | [1879-maximum-score-from-removing-stones](https://github.com/ankitadhikari2004/koding/tree/master/1879-maximum-score-from-removing-stones) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankitadhikari2004/koding/tree/master/2379-maximum-total-importance-of-roads) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ankitadhikari2004/koding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/ankitadhikari2004/koding/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [3647-zero-array-transformation-iii](https://github.com/ankitadhikari2004/koding/tree/master/3647-zero-array-transformation-iii) |
 ## Design
 |  |
@@ -702,6 +706,7 @@
 | [2206-detonate-the-maximum-bombs](https://github.com/ankitadhikari2004/koding/tree/master/2206-detonate-the-maximum-bombs) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankitadhikari2004/koding/tree/master/2379-maximum-total-importance-of-roads) |
 | [2455-node-with-highest-edge-score](https://github.com/ankitadhikari2004/koding/tree/master/2455-node-with-highest-edge-score) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/ankitadhikari2004/koding/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/ankitadhikari2004/koding/tree/master/2793-count-the-number-of-complete-components) |
 ## Linked List
 |  |
