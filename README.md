@@ -708,6 +708,7 @@
 | [2455-node-with-highest-edge-score](https://github.com/ankitadhikari2004/koding/tree/master/2455-node-with-highest-edge-score) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/ankitadhikari2004/koding/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/ankitadhikari2004/koding/tree/master/2793-count-the-number-of-complete-components) |
+| [3189-find-champion-ii](https://github.com/ankitadhikari2004/koding/tree/master/3189-find-champion-ii) |
 ## Linked List
 |  |
 | ------- |
