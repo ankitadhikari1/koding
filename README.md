@@ -379,6 +379,7 @@
 | [1436-get-watched-videos-by-your-friends](https://github.com/ankitadhikari2004/koding/tree/master/1436-get-watched-videos-by-your-friends) |
 | [2406-decode-the-message](https://github.com/ankitadhikari2004/koding/tree/master/2406-decode-the-message) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ankitadhikari2004/koding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2455-node-with-highest-edge-score](https://github.com/ankitadhikari2004/koding/tree/master/2455-node-with-highest-edge-score) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ankitadhikari2004/koding/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankitadhikari2004/koding/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ankitadhikari2004/koding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -700,6 +701,7 @@
 | [2121-find-if-path-exists-in-graph](https://github.com/ankitadhikari2004/koding/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/ankitadhikari2004/koding/tree/master/2206-detonate-the-maximum-bombs) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankitadhikari2004/koding/tree/master/2379-maximum-total-importance-of-roads) |
+| [2455-node-with-highest-edge-score](https://github.com/ankitadhikari2004/koding/tree/master/2455-node-with-highest-edge-score) |
 | [2793-count-the-number-of-complete-components](https://github.com/ankitadhikari2004/koding/tree/master/2793-count-the-number-of-complete-components) |
 ## Linked List
 |  |
