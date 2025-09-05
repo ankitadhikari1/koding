@@ -178,6 +178,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ankitadhikari2004/koding/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/ankitadhikari2004/koding/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/ankitadhikari2004/koding/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/ankitadhikari2004/koding/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/0662-maximum-width-of-binary-tree) |
@@ -219,6 +220,7 @@
 | [0257-binary-tree-paths](https://github.com/ankitadhikari2004/koding/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/ankitadhikari2004/koding/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ankitadhikari2004/koding/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/ankitadhikari2004/koding/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/ankitadhikari2004/koding/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/0662-maximum-width-of-binary-tree) |
@@ -272,6 +274,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ankitadhikari2004/koding/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/ankitadhikari2004/koding/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/ankitadhikari2004/koding/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/ankitadhikari2004/koding/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/0662-maximum-width-of-binary-tree) |
@@ -481,6 +484,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitadhikari2004/koding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/ankitadhikari2004/koding/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/ankitadhikari2004/koding/tree/master/0812-rotate-string) |
 ## Trie
 |  |
@@ -820,4 +824,8 @@
 |  |
 | ------- |
 | [2206-detonate-the-maximum-bombs](https://github.com/ankitadhikari2004/koding/tree/master/2206-detonate-the-maximum-bombs) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ankitadhikari2004/koding/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
