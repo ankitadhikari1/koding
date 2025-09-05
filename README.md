@@ -164,6 +164,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ankitadhikari2004/koding/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankitadhikari2004/koding/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0145-binary-tree-postorder-traversal) |
@@ -196,6 +197,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ankitadhikari2004/koding/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankitadhikari2004/koding/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/ankitadhikari2004/koding/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0144-binary-tree-preorder-traversal) |
@@ -246,6 +248,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ankitadhikari2004/koding/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankitadhikari2004/koding/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0145-binary-tree-postorder-traversal) |
@@ -592,6 +595,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ankitadhikari2004/koding/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankitadhikari2004/koding/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/ankitadhikari2004/koding/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/ankitadhikari2004/koding/tree/master/0130-surrounded-regions) |
