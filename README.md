@@ -184,6 +184,7 @@
 | [0690-employee-importance](https://github.com/ankitadhikari2004/koding/tree/master/0690-employee-importance) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ankitadhikari2004/koding/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankitadhikari2004/koding/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0904-leaf-similar-trees](https://github.com/ankitadhikari2004/koding/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/ankitadhikari2004/koding/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -230,6 +231,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/ankitadhikari2004/koding/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/ankitadhikari2004/koding/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/ankitadhikari2004/koding/tree/master/0871-keys-and-rooms) |
+| [0904-leaf-similar-trees](https://github.com/ankitadhikari2004/koding/tree/master/0904-leaf-similar-trees) |
 | [0922-possible-bipartition](https://github.com/ankitadhikari2004/koding/tree/master/0922-possible-bipartition) |
 | [0975-range-sum-of-bst](https://github.com/ankitadhikari2004/koding/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -275,6 +277,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ankitadhikari2004/koding/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankitadhikari2004/koding/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0904-leaf-similar-trees](https://github.com/ankitadhikari2004/koding/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/ankitadhikari2004/koding/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
