@@ -129,6 +129,7 @@
 | [3647-zero-array-transformation-iii](https://github.com/ankitadhikari2004/koding/tree/master/3647-zero-array-transformation-iii) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/ankitadhikari2004/koding/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3778-transform-array-by-parity](https://github.com/ankitadhikari2004/koding/tree/master/3778-transform-array-by-parity) |
+| [3832-minimum-cost-to-reach-every-position](https://github.com/ankitadhikari2004/koding/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Bit Manipulation
 |  |
 | ------- |
