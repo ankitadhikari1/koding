@@ -58,6 +58,7 @@
 | [0741-cherry-pickup](https://github.com/ankitadhikari2004/koding/tree/master/0741-cherry-pickup) |
 | [0792-binary-search](https://github.com/ankitadhikari2004/koding/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/ankitadhikari2004/koding/tree/master/0822-unique-morse-code-words) |
+| [0861-flipping-an-image](https://github.com/ankitadhikari2004/koding/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/ankitadhikari2004/koding/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/ankitadhikari2004/koding/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/ankitadhikari2004/koding/tree/master/0917-boats-to-save-people) |
@@ -133,6 +134,7 @@
 | [0090-subsets-ii](https://github.com/ankitadhikari2004/koding/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/ankitadhikari2004/koding/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/ankitadhikari2004/koding/tree/master/0222-count-complete-tree-nodes) |
+| [0861-flipping-an-image](https://github.com/ankitadhikari2004/koding/tree/master/0861-flipping-an-image) |
 | [1610-xor-operation-in-an-array](https://github.com/ankitadhikari2004/koding/tree/master/1610-xor-operation-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ankitadhikari2004/koding/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -334,6 +336,7 @@
 | [0695-max-area-of-island](https://github.com/ankitadhikari2004/koding/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ankitadhikari2004/koding/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/ankitadhikari2004/koding/tree/master/0741-cherry-pickup) |
+| [0861-flipping-an-image](https://github.com/ankitadhikari2004/koding/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/ankitadhikari2004/koding/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/ankitadhikari2004/koding/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/ankitadhikari2004/koding/tree/master/1036-rotting-oranges) |
@@ -356,6 +359,7 @@
 | [0054-spiral-matrix](https://github.com/ankitadhikari2004/koding/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/ankitadhikari2004/koding/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/ankitadhikari2004/koding/tree/master/0289-game-of-life) |
+| [0861-flipping-an-image](https://github.com/ankitadhikari2004/koding/tree/master/0861-flipping-an-image) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ankitadhikari2004/koding/tree/master/1505-create-target-array-in-the-given-order) |
 | [1708-design-parking-system](https://github.com/ankitadhikari2004/koding/tree/master/1708-design-parking-system) |
 | [1806-count-of-matches-in-tournament](https://github.com/ankitadhikari2004/koding/tree/master/1806-count-of-matches-in-tournament) |
@@ -649,6 +653,7 @@
 | [0455-assign-cookies](https://github.com/ankitadhikari2004/koding/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/ankitadhikari2004/koding/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/ankitadhikari2004/koding/tree/master/0680-valid-palindrome-ii) |
+| [0861-flipping-an-image](https://github.com/ankitadhikari2004/koding/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/ankitadhikari2004/koding/tree/master/0917-boats-to-save-people) |
 | [2128-reverse-prefix-of-word](https://github.com/ankitadhikari2004/koding/tree/master/2128-reverse-prefix-of-word) |
