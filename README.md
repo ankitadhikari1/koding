@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankitadhikari2004/koding/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/ankitadhikari2004/koding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/ankitadhikari2004/koding/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ankitadhikari2004/koding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/ankitadhikari2004/koding/tree/master/0037-sudoku-solver) |
@@ -578,6 +579,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ankitadhikari2004/koding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/ankitadhikari2004/koding/tree/master/0169-majority-element) |
@@ -676,6 +678,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ankitadhikari2004/koding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ankitadhikari2004/koding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/ankitadhikari2004/koding/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ankitadhikari2004/koding/tree/master/0081-search-in-rotated-sorted-array-ii) |
