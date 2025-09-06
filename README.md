@@ -156,6 +156,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/ankitadhikari2004/koding/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ankitadhikari2004/koding/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/ankitadhikari2004/koding/tree/master/1833-find-the-highest-altitude) |
+| [2571-find-the-pivot-integer](https://github.com/ankitadhikari2004/koding/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/ankitadhikari2004/koding/tree/master/2714-left-and-right-sum-differences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ankitadhikari2004/koding/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3647-zero-array-transformation-iii](https://github.com/ankitadhikari2004/koding/tree/master/3647-zero-array-transformation-iii) |
@@ -379,6 +380,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2206-detonate-the-maximum-bombs](https://github.com/ankitadhikari2004/koding/tree/master/2206-detonate-the-maximum-bombs) |
 | [2383-add-two-integers](https://github.com/ankitadhikari2004/koding/tree/master/2383-add-two-integers) |
+| [2571-find-the-pivot-integer](https://github.com/ankitadhikari2004/koding/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ankitadhikari2004/koding/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ankitadhikari2004/koding/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ankitadhikari2004/koding/tree/master/3172-divisible-and-non-divisible-sums-difference) |
