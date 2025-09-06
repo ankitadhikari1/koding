@@ -57,6 +57,7 @@
 | [0733-flood-fill](https://github.com/ankitadhikari2004/koding/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/ankitadhikari2004/koding/tree/master/0741-cherry-pickup) |
 | [0792-binary-search](https://github.com/ankitadhikari2004/koding/tree/master/0792-binary-search) |
+| [0822-unique-morse-code-words](https://github.com/ankitadhikari2004/koding/tree/master/0822-unique-morse-code-words) |
 | [0890-lemonade-change](https://github.com/ankitadhikari2004/koding/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/ankitadhikari2004/koding/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/ankitadhikari2004/koding/tree/master/0917-boats-to-save-people) |
@@ -449,6 +450,7 @@
 | [0690-employee-importance](https://github.com/ankitadhikari2004/koding/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/ankitadhikari2004/koding/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/ankitadhikari2004/koding/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/ankitadhikari2004/koding/tree/master/0822-unique-morse-code-words) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankitadhikari2004/koding/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/ankitadhikari2004/koding/tree/master/1039-find-the-town-judge) |
@@ -488,6 +490,7 @@
 | [0742-to-lower-case](https://github.com/ankitadhikari2004/koding/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/ankitadhikari2004/koding/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/ankitadhikari2004/koding/tree/master/0812-rotate-string) |
+| [0822-unique-morse-code-words](https://github.com/ankitadhikari2004/koding/tree/master/0822-unique-morse-code-words) |
 | [1078-remove-outermost-parentheses](https://github.com/ankitadhikari2004/koding/tree/master/1078-remove-outermost-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ankitadhikari2004/koding/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/ankitadhikari2004/koding/tree/master/1651-shuffle-string) |
