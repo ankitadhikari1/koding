@@ -90,6 +90,7 @@
 | [1753-path-with-minimum-effort](https://github.com/ankitadhikari2004/koding/tree/master/1753-path-with-minimum-effort) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ankitadhikari2004/koding/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ankitadhikari2004/koding/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [1899-count-items-matching-a-rule](https://github.com/ankitadhikari2004/koding/tree/master/1899-count-items-matching-a-rule) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/ankitadhikari2004/koding/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/ankitadhikari2004/koding/tree/master/2048-build-array-from-permutation) |
@@ -468,6 +469,7 @@
 | [1651-shuffle-string](https://github.com/ankitadhikari2004/koding/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ankitadhikari2004/koding/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/ankitadhikari2004/koding/tree/master/1797-goal-parser-interpretation) |
+| [1899-count-items-matching-a-rule](https://github.com/ankitadhikari2004/koding/tree/master/1899-count-items-matching-a-rule) |
 | [2128-reverse-prefix-of-word](https://github.com/ankitadhikari2004/koding/tree/master/2128-reverse-prefix-of-word) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/ankitadhikari2004/koding/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2406-decode-the-message](https://github.com/ankitadhikari2004/koding/tree/master/2406-decode-the-message) |
