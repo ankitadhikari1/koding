@@ -179,6 +179,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/ankitadhikari2004/koding/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ankitadhikari2004/koding/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/ankitadhikari2004/koding/tree/master/2128-reverse-prefix-of-word) |
+| [3447-clear-digits](https://github.com/ankitadhikari2004/koding/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -369,6 +370,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ankitadhikari2004/koding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ankitadhikari2004/koding/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/ankitadhikari2004/koding/tree/master/3226-minimum-number-game) |
+| [3447-clear-digits](https://github.com/ankitadhikari2004/koding/tree/master/3447-clear-digits) |
 | [3811-reverse-degree-of-a-string](https://github.com/ankitadhikari2004/koding/tree/master/3811-reverse-degree-of-a-string) |
 ## Math
 |  |
@@ -518,6 +520,7 @@
 | [3055-maximum-odd-binary-number](https://github.com/ankitadhikari2004/koding/tree/master/3055-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/ankitadhikari2004/koding/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/ankitadhikari2004/koding/tree/master/3379-score-of-a-string) |
+| [3447-clear-digits](https://github.com/ankitadhikari2004/koding/tree/master/3447-clear-digits) |
 | [3567-convert-date-to-binary](https://github.com/ankitadhikari2004/koding/tree/master/3567-convert-date-to-binary) |
 | [3811-reverse-degree-of-a-string](https://github.com/ankitadhikari2004/koding/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankitadhikari2004/koding/tree/master/3872-find-most-frequent-vowel-and-consonant) |
