@@ -1,29 +1,31 @@
 class Solution {
 public:
-    // Iterative check function
-    bool check(const string &s, int i, int j) {
-        while (i < j) {
-            if (s[i] != s[j]) return false;
-            i++;
-            j--;
+
+    bool check(string&s,int i , int j,vector<vector<int>>&dp){
+        if(i>=j)return true;
+        if(dp[i][j]!=-1)return dp[i][j];
+        if(s[i]==s[j]){
+            return check(s,i+1,j-1,dp);
         }
-        return true;
+        return dp[i][j]=false;
     }
 
-    string longestPalindrome(string s) {
-        int start = -1;
-        int maxSize = 0; // at least 0 initially
 
-        for (int i = 0; i < s.size(); i++) {
-            for (int j = i; j < s.size(); j++) {
-                if (check(s, i, j)) {
-                    if (j - i + 1 > maxSize) {
-                        maxSize = j - i + 1;
-                        start = i;
+    string longestPalindrome(string s) {
+        int n = s.size();
+        vector<vector<int>>dp(n,vector<int>(n,-1));
+        int maxString = -1;
+        int maxSize = INT_MIN;
+        for(int i=0;i<s.size();i++){
+            for(int j=i;j<s.size();j++){
+                if(check(s,i,j,dp)){
+                    if(j-i+1 > maxSize){
+                        maxSize = j-i+1;
+                        maxString = i;
                     }
                 }
             }
         }
-        return s.substr(start, maxSize);
+        return s.substr(maxString,maxSize);
     }
 };
