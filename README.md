@@ -97,6 +97,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ankitadhikari2004/koding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankitadhikari2004/koding/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2206-detonate-the-maximum-bombs](https://github.com/ankitadhikari2004/koding/tree/master/2206-detonate-the-maximum-bombs) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/ankitadhikari2004/koding/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ankitadhikari2004/koding/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ankitadhikari2004/koding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ankitadhikari2004/koding/tree/master/2442-number-of-arithmetic-triplets) |
@@ -487,6 +488,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/ankitadhikari2004/koding/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ankitadhikari2004/koding/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2128-reverse-prefix-of-word](https://github.com/ankitadhikari2004/koding/tree/master/2128-reverse-prefix-of-word) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/ankitadhikari2004/koding/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/ankitadhikari2004/koding/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2406-decode-the-message](https://github.com/ankitadhikari2004/koding/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/ankitadhikari2004/koding/tree/master/2502-sort-the-people) |
@@ -636,6 +638,7 @@
 | [0917-boats-to-save-people](https://github.com/ankitadhikari2004/koding/tree/master/0917-boats-to-save-people) |
 | [2128-reverse-prefix-of-word](https://github.com/ankitadhikari2004/koding/tree/master/2128-reverse-prefix-of-word) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankitadhikari2004/koding/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/ankitadhikari2004/koding/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ankitadhikari2004/koding/tree/master/2442-number-of-arithmetic-triplets) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ankitadhikari2004/koding/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
