@@ -236,6 +236,7 @@
 | [0904-leaf-similar-trees](https://github.com/ankitadhikari2004/koding/tree/master/0904-leaf-similar-trees) |
 | [0922-possible-bipartition](https://github.com/ankitadhikari2004/koding/tree/master/0922-possible-bipartition) |
 | [0975-range-sum-of-bst](https://github.com/ankitadhikari2004/koding/tree/master/0975-range-sum-of-bst) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankitadhikari2004/koding/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1104-coloring-a-border](https://github.com/ankitadhikari2004/koding/tree/master/1104-coloring-a-border) |
 | [1380-number-of-closed-islands](https://github.com/ankitadhikari2004/koding/tree/master/1380-number-of-closed-islands) |
@@ -412,6 +413,7 @@
 | [0690-employee-importance](https://github.com/ankitadhikari2004/koding/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/ankitadhikari2004/koding/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/ankitadhikari2004/koding/tree/master/0782-jewels-and-stones) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankitadhikari2004/koding/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/ankitadhikari2004/koding/tree/master/1039-find-the-town-judge) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/ankitadhikari2004/koding/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -747,6 +749,7 @@
 | [0820-find-eventual-safe-states](https://github.com/ankitadhikari2004/koding/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/ankitadhikari2004/koding/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/ankitadhikari2004/koding/tree/master/0922-possible-bipartition) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankitadhikari2004/koding/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/ankitadhikari2004/koding/tree/master/1039-find-the-town-judge) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/ankitadhikari2004/koding/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ankitadhikari2004/koding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -776,6 +779,7 @@
 | [0695-max-area-of-island](https://github.com/ankitadhikari2004/koding/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/ankitadhikari2004/koding/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/ankitadhikari2004/koding/tree/master/0922-possible-bipartition) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankitadhikari2004/koding/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1380-number-of-closed-islands](https://github.com/ankitadhikari2004/koding/tree/master/1380-number-of-closed-islands) |
 | [1753-path-with-minimum-effort](https://github.com/ankitadhikari2004/koding/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ankitadhikari2004/koding/tree/master/2121-find-if-path-exists-in-graph) |
