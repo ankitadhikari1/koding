@@ -110,6 +110,7 @@
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/ankitadhikari2004/koding/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3188-find-champion-i](https://github.com/ankitadhikari2004/koding/tree/master/3188-find-champion-i) |
 | [3194-find-words-containing-character](https://github.com/ankitadhikari2004/koding/tree/master/3194-find-words-containing-character) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/ankitadhikari2004/koding/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/ankitadhikari2004/koding/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankitadhikari2004/koding/tree/master/3227-find-missing-and-repeated-values) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ankitadhikari2004/koding/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -450,6 +451,7 @@
 | [2455-node-with-highest-edge-score](https://github.com/ankitadhikari2004/koding/tree/master/2455-node-with-highest-edge-score) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ankitadhikari2004/koding/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2502-sort-the-people](https://github.com/ankitadhikari2004/koding/tree/master/2502-sort-the-people) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/ankitadhikari2004/koding/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankitadhikari2004/koding/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ankitadhikari2004/koding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankitadhikari2004/koding/tree/master/3872-find-most-frequent-vowel-and-consonant) |
