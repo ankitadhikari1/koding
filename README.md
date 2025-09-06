@@ -76,6 +76,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/ankitadhikari2004/koding/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1241-decompress-run-length-encoded-list](https://github.com/ankitadhikari2004/koding/tree/master/1241-decompress-run-length-encoded-list) |
 | [1380-number-of-closed-islands](https://github.com/ankitadhikari2004/koding/tree/master/1380-number-of-closed-islands) |
+| [1395-minimum-time-visiting-all-points](https://github.com/ankitadhikari2004/koding/tree/master/1395-minimum-time-visiting-all-points) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ankitadhikari2004/koding/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/ankitadhikari2004/koding/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankitadhikari2004/koding/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -379,6 +380,7 @@
 | [0204-count-primes](https://github.com/ankitadhikari2004/koding/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ankitadhikari2004/koding/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/ankitadhikari2004/koding/tree/master/1013-fibonacci-number) |
+| [1395-minimum-time-visiting-all-points](https://github.com/ankitadhikari2004/koding/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ankitadhikari2004/koding/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1448-maximum-69-number](https://github.com/ankitadhikari2004/koding/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/ankitadhikari2004/koding/tree/master/1610-xor-operation-in-an-array) |
@@ -916,6 +918,7 @@
 ## Geometry
 |  |
 | ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/ankitadhikari2004/koding/tree/master/1395-minimum-time-visiting-all-points) |
 | [2206-detonate-the-maximum-bombs](https://github.com/ankitadhikari2004/koding/tree/master/2206-detonate-the-maximum-bombs) |
 ## Hash Function
 |  |
