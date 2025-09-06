@@ -98,6 +98,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/ankitadhikari2004/koding/tree/master/1899-count-items-matching-a-rule) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/ankitadhikari2004/koding/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/ankitadhikari2004/koding/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/ankitadhikari2004/koding/tree/master/2048-build-array-from-permutation) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ankitadhikari2004/koding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankitadhikari2004/koding/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -577,6 +578,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/ankitadhikari2004/koding/tree/master/1675-magnetic-force-between-two-balls) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ankitadhikari2004/koding/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1970-sorting-the-sentence](https://github.com/ankitadhikari2004/koding/tree/master/1970-sorting-the-sentence) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/ankitadhikari2004/koding/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/ankitadhikari2004/koding/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankitadhikari2004/koding/tree/master/2379-maximum-total-importance-of-roads) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ankitadhikari2004/koding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
