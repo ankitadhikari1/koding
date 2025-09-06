@@ -368,6 +368,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ankitadhikari2004/koding/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ankitadhikari2004/koding/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/ankitadhikari2004/koding/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ankitadhikari2004/koding/tree/master/0064-minimum-path-sum) |
@@ -435,6 +436,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitadhikari2004/koding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/ankitadhikari2004/koding/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/ankitadhikari2004/koding/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankitadhikari2004/koding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ankitadhikari2004/koding/tree/master/0022-generate-parentheses) |
@@ -590,6 +592,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ankitadhikari2004/koding/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitadhikari2004/koding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/ankitadhikari2004/koding/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitadhikari2004/koding/tree/master/0349-intersection-of-two-arrays) |
