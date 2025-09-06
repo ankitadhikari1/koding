@@ -57,6 +57,7 @@
 | [0792-binary-search](https://github.com/ankitadhikari2004/koding/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/ankitadhikari2004/koding/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/ankitadhikari2004/koding/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/ankitadhikari2004/koding/tree/master/0917-boats-to-save-people) |
 | [0945-snakes-and-ladders](https://github.com/ankitadhikari2004/koding/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/ankitadhikari2004/koding/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/ankitadhikari2004/koding/tree/master/0967-minimum-falling-path-sum) |
@@ -514,6 +515,7 @@
 | [0506-relative-ranks](https://github.com/ankitadhikari2004/koding/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/ankitadhikari2004/koding/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ankitadhikari2004/koding/tree/master/0692-top-k-frequent-words) |
+| [0917-boats-to-save-people](https://github.com/ankitadhikari2004/koding/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/ankitadhikari2004/koding/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/ankitadhikari2004/koding/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -591,6 +593,7 @@
 | [0658-find-k-closest-elements](https://github.com/ankitadhikari2004/koding/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/ankitadhikari2004/koding/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/ankitadhikari2004/koding/tree/master/0917-boats-to-save-people) |
 | [2128-reverse-prefix-of-word](https://github.com/ankitadhikari2004/koding/tree/master/2128-reverse-prefix-of-word) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankitadhikari2004/koding/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Greedy
@@ -603,6 +606,7 @@
 | [0680-valid-palindrome-ii](https://github.com/ankitadhikari2004/koding/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankitadhikari2004/koding/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/ankitadhikari2004/koding/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/ankitadhikari2004/koding/tree/master/0917-boats-to-save-people) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ankitadhikari2004/koding/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1879-maximum-score-from-removing-stones](https://github.com/ankitadhikari2004/koding/tree/master/1879-maximum-score-from-removing-stones) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankitadhikari2004/koding/tree/master/2379-maximum-total-importance-of-roads) |
