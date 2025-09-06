@@ -364,6 +364,7 @@
 | [0258-add-digits](https://github.com/ankitadhikari2004/koding/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/ankitadhikari2004/koding/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ankitadhikari2004/koding/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1448-maximum-69-number](https://github.com/ankitadhikari2004/koding/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/ankitadhikari2004/koding/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/ankitadhikari2004/koding/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1806-count-of-matches-in-tournament](https://github.com/ankitadhikari2004/koding/tree/master/1806-count-of-matches-in-tournament) |
@@ -643,6 +644,7 @@
 | [0890-lemonade-change](https://github.com/ankitadhikari2004/koding/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/ankitadhikari2004/koding/tree/master/0917-boats-to-save-people) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ankitadhikari2004/koding/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1448-maximum-69-number](https://github.com/ankitadhikari2004/koding/tree/master/1448-maximum-69-number) |
 | [1879-maximum-score-from-removing-stones](https://github.com/ankitadhikari2004/koding/tree/master/1879-maximum-score-from-removing-stones) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankitadhikari2004/koding/tree/master/2379-maximum-total-importance-of-roads) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ankitadhikari2004/koding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
