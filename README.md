@@ -110,6 +110,7 @@
 | [3194-find-words-containing-character](https://github.com/ankitadhikari2004/koding/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/ankitadhikari2004/koding/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankitadhikari2004/koding/tree/master/3227-find-missing-and-repeated-values) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ankitadhikari2004/koding/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ankitadhikari2004/koding/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ankitadhikari2004/koding/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ankitadhikari2004/koding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -547,6 +548,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/ankitadhikari2004/koding/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/ankitadhikari2004/koding/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [3226-minimum-number-game](https://github.com/ankitadhikari2004/koding/tree/master/3226-minimum-number-game) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ankitadhikari2004/koding/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3647-zero-array-transformation-iii](https://github.com/ankitadhikari2004/koding/tree/master/3647-zero-array-transformation-iii) |
 | [3778-transform-array-by-parity](https://github.com/ankitadhikari2004/koding/tree/master/3778-transform-array-by-parity) |
 ## Heap (Priority Queue)
@@ -620,6 +622,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/ankitadhikari2004/koding/tree/master/2128-reverse-prefix-of-word) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankitadhikari2004/koding/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ankitadhikari2004/koding/tree/master/2442-number-of-arithmetic-triplets) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ankitadhikari2004/koding/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
 |  |
 | ------- |
