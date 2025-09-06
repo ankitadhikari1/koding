@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ankitadhikari2004/koding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/ankitadhikari2004/koding/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ankitadhikari2004/koding/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/ankitadhikari2004/koding/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ankitadhikari2004/koding/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/ankitadhikari2004/koding/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/ankitadhikari2004/koding/tree/master/0048-rotate-image) |
@@ -299,6 +300,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ankitadhikari2004/koding/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ankitadhikari2004/koding/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ankitadhikari2004/koding/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ankitadhikari2004/koding/tree/master/0054-spiral-matrix) |
@@ -405,6 +407,7 @@
 | [0001-two-sum](https://github.com/ankitadhikari2004/koding/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitadhikari2004/koding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankitadhikari2004/koding/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/ankitadhikari2004/koding/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ankitadhikari2004/koding/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/ankitadhikari2004/koding/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
