@@ -220,6 +220,7 @@
 | [0904-leaf-similar-trees](https://github.com/ankitadhikari2004/koding/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/ankitadhikari2004/koding/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/ankitadhikari2004/koding/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/ankitadhikari2004/koding/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/ankitadhikari2004/koding/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -277,6 +278,7 @@
 | [0975-range-sum-of-bst](https://github.com/ankitadhikari2004/koding/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankitadhikari2004/koding/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/ankitadhikari2004/koding/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/ankitadhikari2004/koding/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1104-coloring-a-border](https://github.com/ankitadhikari2004/koding/tree/master/1104-coloring-a-border) |
 | [1380-number-of-closed-islands](https://github.com/ankitadhikari2004/koding/tree/master/1380-number-of-closed-islands) |
@@ -328,6 +330,7 @@
 | [0904-leaf-similar-trees](https://github.com/ankitadhikari2004/koding/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/ankitadhikari2004/koding/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/ankitadhikari2004/koding/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/ankitadhikari2004/koding/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ankitadhikari2004/koding/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -519,6 +522,7 @@
 | [0782-jewels-and-stones](https://github.com/ankitadhikari2004/koding/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/ankitadhikari2004/koding/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/ankitadhikari2004/koding/tree/master/0822-unique-morse-code-words) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/ankitadhikari2004/koding/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1078-remove-outermost-parentheses](https://github.com/ankitadhikari2004/koding/tree/master/1078-remove-outermost-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ankitadhikari2004/koding/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/ankitadhikari2004/koding/tree/master/1651-shuffle-string) |
@@ -556,6 +560,7 @@
 | [0216-combination-sum-iii](https://github.com/ankitadhikari2004/koding/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/ankitadhikari2004/koding/tree/master/0257-binary-tree-paths) |
 | [0813-all-paths-from-source-to-target](https://github.com/ankitadhikari2004/koding/tree/master/0813-all-paths-from-source-to-target) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/ankitadhikari2004/koding/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
