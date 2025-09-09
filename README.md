@@ -122,6 +122,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/ankitadhikari2004/koding/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/ankitadhikari2004/koding/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ankitadhikari2004/koding/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ankitadhikari2004/koding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/ankitadhikari2004/koding/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ankitadhikari2004/koding/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/ankitadhikari2004/koding/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -536,6 +537,7 @@
 | [2455-node-with-highest-edge-score](https://github.com/ankitadhikari2004/koding/tree/master/2455-node-with-highest-edge-score) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ankitadhikari2004/koding/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2502-sort-the-people](https://github.com/ankitadhikari2004/koding/tree/master/2502-sort-the-people) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ankitadhikari2004/koding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ankitadhikari2004/koding/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankitadhikari2004/koding/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ankitadhikari2004/koding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -750,6 +752,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/ankitadhikari2004/koding/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ankitadhikari2004/koding/tree/master/2442-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/ankitadhikari2004/koding/tree/master/2481-strictly-palindromic-number) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ankitadhikari2004/koding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ankitadhikari2004/koding/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
 |  |
