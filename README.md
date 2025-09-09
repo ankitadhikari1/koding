@@ -98,6 +98,7 @@
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ankitadhikari2004/koding/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ankitadhikari2004/koding/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1753-path-with-minimum-effort](https://github.com/ankitadhikari2004/koding/tree/master/1753-path-with-minimum-effort) |
+| [1775-design-an-ordered-stream](https://github.com/ankitadhikari2004/koding/tree/master/1775-design-an-ordered-stream) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ankitadhikari2004/koding/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ankitadhikari2004/koding/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1833-find-the-highest-altitude](https://github.com/ankitadhikari2004/koding/tree/master/1833-find-the-highest-altitude) |
@@ -521,6 +522,7 @@
 | [1039-find-the-town-judge](https://github.com/ankitadhikari2004/koding/tree/master/1039-find-the-town-judge) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ankitadhikari2004/koding/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/ankitadhikari2004/koding/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1775-design-an-ordered-stream](https://github.com/ankitadhikari2004/koding/tree/master/1775-design-an-ordered-stream) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ankitadhikari2004/koding/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ankitadhikari2004/koding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2406-decode-the-message](https://github.com/ankitadhikari2004/koding/tree/master/2406-decode-the-message) |
@@ -769,6 +771,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/ankitadhikari2004/koding/tree/master/0208-implement-trie-prefix-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankitadhikari2004/koding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1708-design-parking-system](https://github.com/ankitadhikari2004/koding/tree/master/1708-design-parking-system) |
+| [1775-design-an-ordered-stream](https://github.com/ankitadhikari2004/koding/tree/master/1775-design-an-ordered-stream) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -866,6 +869,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankitadhikari2004/koding/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1775-design-an-ordered-stream](https://github.com/ankitadhikari2004/koding/tree/master/1775-design-an-ordered-stream) |
 ## Combinatorics
 |  |
 | ------- |
