@@ -44,6 +44,7 @@
 | [0289-game-of-life](https://github.com/ankitadhikari2004/koding/tree/master/0289-game-of-life) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitadhikari2004/koding/tree/master/0349-intersection-of-two-arrays) |
 | [0399-evaluate-division](https://github.com/ankitadhikari2004/koding/tree/master/0399-evaluate-division) |
+| [0406-queue-reconstruction-by-height](https://github.com/ankitadhikari2004/koding/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/ankitadhikari2004/koding/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ankitadhikari2004/koding/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ankitadhikari2004/koding/tree/master/0485-max-consecutive-ones) |
@@ -619,6 +620,7 @@
 | [0169-majority-element](https://github.com/ankitadhikari2004/koding/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ankitadhikari2004/koding/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitadhikari2004/koding/tree/master/0349-intersection-of-two-arrays) |
+| [0406-queue-reconstruction-by-height](https://github.com/ankitadhikari2004/koding/tree/master/0406-queue-reconstruction-by-height) |
 | [0451-sort-characters-by-frequency](https://github.com/ankitadhikari2004/koding/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ankitadhikari2004/koding/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/ankitadhikari2004/koding/tree/master/0506-relative-ranks) |
@@ -981,4 +983,12 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ankitadhikari2004/koding/tree/master/0572-subtree-of-another-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/ankitadhikari2004/koding/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/ankitadhikari2004/koding/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
