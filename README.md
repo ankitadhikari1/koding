@@ -440,6 +440,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2206-detonate-the-maximum-bombs](https://github.com/ankitadhikari2004/koding/tree/master/2206-detonate-the-maximum-bombs) |
 | [2383-add-two-integers](https://github.com/ankitadhikari2004/koding/tree/master/2383-add-two-integers) |
+| [2481-strictly-palindromic-number](https://github.com/ankitadhikari2004/koding/tree/master/2481-strictly-palindromic-number) |
 | [2571-find-the-pivot-integer](https://github.com/ankitadhikari2004/koding/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ankitadhikari2004/koding/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ankitadhikari2004/koding/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -734,6 +735,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ankitadhikari2004/koding/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ankitadhikari2004/koding/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ankitadhikari2004/koding/tree/master/2442-number-of-arithmetic-triplets) |
+| [2481-strictly-palindromic-number](https://github.com/ankitadhikari2004/koding/tree/master/2481-strictly-palindromic-number) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ankitadhikari2004/koding/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
 |  |
@@ -1011,4 +1013,8 @@
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/ankitadhikari2004/koding/tree/master/0406-queue-reconstruction-by-height) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/ankitadhikari2004/koding/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
