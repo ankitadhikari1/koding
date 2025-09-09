@@ -110,6 +110,7 @@
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankitadhikari2004/koding/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ankitadhikari2004/koding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankitadhikari2004/koding/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ankitadhikari2004/koding/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2206-detonate-the-maximum-bombs](https://github.com/ankitadhikari2004/koding/tree/master/2206-detonate-the-maximum-bombs) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ankitadhikari2004/koding/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ankitadhikari2004/koding/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -526,6 +527,7 @@
 | [1775-design-an-ordered-stream](https://github.com/ankitadhikari2004/koding/tree/master/1775-design-an-ordered-stream) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ankitadhikari2004/koding/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ankitadhikari2004/koding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ankitadhikari2004/koding/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2406-decode-the-message](https://github.com/ankitadhikari2004/koding/tree/master/2406-decode-the-message) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ankitadhikari2004/koding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ankitadhikari2004/koding/tree/master/2442-number-of-arithmetic-triplets) |
@@ -574,6 +576,7 @@
 | [1970-sorting-the-sentence](https://github.com/ankitadhikari2004/koding/tree/master/1970-sorting-the-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankitadhikari2004/koding/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/ankitadhikari2004/koding/tree/master/2128-reverse-prefix-of-word) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ankitadhikari2004/koding/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ankitadhikari2004/koding/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/ankitadhikari2004/koding/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/ankitadhikari2004/koding/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
@@ -704,6 +707,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/ankitadhikari2004/koding/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1708-design-parking-system](https://github.com/ankitadhikari2004/koding/tree/master/1708-design-parking-system) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ankitadhikari2004/koding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ankitadhikari2004/koding/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3778-transform-array-by-parity](https://github.com/ankitadhikari2004/koding/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankitadhikari2004/koding/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Recursion
