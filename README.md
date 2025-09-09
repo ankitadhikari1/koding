@@ -449,6 +449,7 @@
 | [1879-maximum-score-from-removing-stones](https://github.com/ankitadhikari2004/koding/tree/master/1879-maximum-score-from-removing-stones) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2206-detonate-the-maximum-bombs](https://github.com/ankitadhikari2004/koding/tree/master/2206-detonate-the-maximum-bombs) |
+| [2238-a-number-after-a-double-reversal](https://github.com/ankitadhikari2004/koding/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/ankitadhikari2004/koding/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/ankitadhikari2004/koding/tree/master/2481-strictly-palindromic-number) |
 | [2571-find-the-pivot-integer](https://github.com/ankitadhikari2004/koding/tree/master/2571-find-the-pivot-integer) |
