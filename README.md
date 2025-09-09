@@ -107,6 +107,7 @@
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/ankitadhikari2004/koding/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ankitadhikari2004/koding/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/ankitadhikari2004/koding/tree/master/2048-build-array-from-permutation) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankitadhikari2004/koding/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ankitadhikari2004/koding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankitadhikari2004/koding/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2206-detonate-the-maximum-bombs](https://github.com/ankitadhikari2004/koding/tree/master/2206-detonate-the-maximum-bombs) |
@@ -571,6 +572,7 @@
 | [1954-replace-all-digits-with-characters](https://github.com/ankitadhikari2004/koding/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ankitadhikari2004/koding/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/ankitadhikari2004/koding/tree/master/1970-sorting-the-sentence) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankitadhikari2004/koding/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/ankitadhikari2004/koding/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ankitadhikari2004/koding/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/ankitadhikari2004/koding/tree/master/2243-check-if-all-as-appears-before-all-bs) |
