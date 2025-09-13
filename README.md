@@ -757,6 +757,7 @@
 | [0088-merge-sorted-array](https://github.com/ankitadhikari2004/koding/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitadhikari2004/koding/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ankitadhikari2004/koding/tree/master/0455-assign-cookies) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0611-valid-triangle-number](https://github.com/ankitadhikari2004/koding/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/ankitadhikari2004/koding/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/ankitadhikari2004/koding/tree/master/0680-valid-palindrome-ii) |
@@ -974,6 +975,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankitadhikari2004/koding/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/ankitadhikari2004/koding/tree/master/0023-merge-k-sorted-lists) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/0908-middle-of-the-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ankitadhikari2004/koding/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
