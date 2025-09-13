@@ -43,6 +43,7 @@
 | [0216-combination-sum-iii](https://github.com/ankitadhikari2004/koding/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ankitadhikari2004/koding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/ankitadhikari2004/koding/tree/master/0289-game-of-life) |
+| [0307-range-sum-query-mutable](https://github.com/ankitadhikari2004/koding/tree/master/0307-range-sum-query-mutable) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitadhikari2004/koding/tree/master/0349-intersection-of-two-arrays) |
 | [0399-evaluate-division](https://github.com/ankitadhikari2004/koding/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/ankitadhikari2004/koding/tree/master/0406-queue-reconstruction-by-height) |
@@ -764,6 +765,7 @@
 | [0169-majority-element](https://github.com/ankitadhikari2004/koding/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ankitadhikari2004/koding/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ankitadhikari2004/koding/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/ankitadhikari2004/koding/tree/master/0307-range-sum-query-mutable) |
 | [0948-sort-an-array](https://github.com/ankitadhikari2004/koding/tree/master/0948-sort-an-array) |
 ## Two Pointers
 |  |
@@ -818,6 +820,7 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ankitadhikari2004/koding/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/ankitadhikari2004/koding/tree/master/0208-implement-trie-prefix-tree) |
+| [0307-range-sum-query-mutable](https://github.com/ankitadhikari2004/koding/tree/master/0307-range-sum-query-mutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankitadhikari2004/koding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1708-design-parking-system](https://github.com/ankitadhikari2004/koding/tree/master/1708-design-parking-system) |
 | [1775-design-an-ordered-stream](https://github.com/ankitadhikari2004/koding/tree/master/1775-design-an-ordered-stream) |
@@ -1069,10 +1072,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/ankitadhikari2004/koding/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/ankitadhikari2004/koding/tree/master/0406-queue-reconstruction-by-height) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/ankitadhikari2004/koding/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/ankitadhikari2004/koding/tree/master/0406-queue-reconstruction-by-height) |
 ## Brainteaser
 |  |
