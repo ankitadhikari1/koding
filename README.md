@@ -108,6 +108,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/ankitadhikari2004/koding/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ankitadhikari2004/koding/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2047-find-a-peak-element-ii](https://github.com/ankitadhikari2004/koding/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/ankitadhikari2004/koding/tree/master/2048-build-array-from-permutation) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankitadhikari2004/koding/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ankitadhikari2004/koding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -411,6 +412,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/ankitadhikari2004/koding/tree/master/1677-matrix-diagonal-sum) |
 | [1753-path-with-minimum-effort](https://github.com/ankitadhikari2004/koding/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/ankitadhikari2004/koding/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2047-find-a-peak-element-ii](https://github.com/ankitadhikari2004/koding/tree/master/2047-find-a-peak-element-ii) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/ankitadhikari2004/koding/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ankitadhikari2004/koding/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2737-row-with-maximum-ones](https://github.com/ankitadhikari2004/koding/tree/master/2737-row-with-maximum-ones) |
@@ -890,6 +892,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankitadhikari2004/koding/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ankitadhikari2004/koding/tree/master/1675-magnetic-force-between-two-balls) |
 | [1753-path-with-minimum-effort](https://github.com/ankitadhikari2004/koding/tree/master/1753-path-with-minimum-effort) |
+| [2047-find-a-peak-element-ii](https://github.com/ankitadhikari2004/koding/tree/master/2047-find-a-peak-element-ii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankitadhikari2004/koding/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Data Stream
 |  |
