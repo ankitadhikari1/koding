@@ -471,6 +471,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ankitadhikari2004/koding/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankitadhikari2004/koding/tree/master/3227-find-missing-and-repeated-values) |
 | [3371-harshad-number](https://github.com/ankitadhikari2004/koding/tree/master/3371-harshad-number) |
+| [3462-vowels-game-in-a-string](https://github.com/ankitadhikari2004/koding/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ankitadhikari2004/koding/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/ankitadhikari2004/koding/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ankitadhikari2004/koding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -611,6 +612,7 @@
 | [3194-find-words-containing-character](https://github.com/ankitadhikari2004/koding/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/ankitadhikari2004/koding/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/ankitadhikari2004/koding/tree/master/3447-clear-digits) |
+| [3462-vowels-game-in-a-string](https://github.com/ankitadhikari2004/koding/tree/master/3462-vowels-game-in-a-string) |
 | [3533-snake-in-matrix](https://github.com/ankitadhikari2004/koding/tree/master/3533-snake-in-matrix) |
 | [3567-convert-date-to-binary](https://github.com/ankitadhikari2004/koding/tree/master/3567-convert-date-to-binary) |
 | [3811-reverse-degree-of-a-string](https://github.com/ankitadhikari2004/koding/tree/master/3811-reverse-degree-of-a-string) |
@@ -1067,4 +1069,9 @@
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/ankitadhikari2004/koding/tree/master/2481-strictly-palindromic-number) |
+| [3462-vowels-game-in-a-string](https://github.com/ankitadhikari2004/koding/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/ankitadhikari2004/koding/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
