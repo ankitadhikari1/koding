@@ -125,6 +125,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/ankitadhikari2004/koding/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/ankitadhikari2004/koding/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ankitadhikari2004/koding/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2634-minimum-common-value](https://github.com/ankitadhikari2004/koding/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ankitadhikari2004/koding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/ankitadhikari2004/koding/tree/master/2714-left-and-right-sum-differences) |
 | [2737-row-with-maximum-ones](https://github.com/ankitadhikari2004/koding/tree/master/2737-row-with-maximum-ones) |
@@ -550,6 +551,7 @@
 | [2455-node-with-highest-edge-score](https://github.com/ankitadhikari2004/koding/tree/master/2455-node-with-highest-edge-score) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ankitadhikari2004/koding/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2502-sort-the-people](https://github.com/ankitadhikari2004/koding/tree/master/2502-sort-the-people) |
+| [2634-minimum-common-value](https://github.com/ankitadhikari2004/koding/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ankitadhikari2004/koding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ankitadhikari2004/koding/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ankitadhikari2004/koding/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -767,6 +769,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/ankitadhikari2004/koding/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ankitadhikari2004/koding/tree/master/2442-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/ankitadhikari2004/koding/tree/master/2481-strictly-palindromic-number) |
+| [2634-minimum-common-value](https://github.com/ankitadhikari2004/koding/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ankitadhikari2004/koding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ankitadhikari2004/koding/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
@@ -894,6 +897,7 @@
 | [1753-path-with-minimum-effort](https://github.com/ankitadhikari2004/koding/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/ankitadhikari2004/koding/tree/master/2047-find-a-peak-element-ii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankitadhikari2004/koding/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2634-minimum-common-value](https://github.com/ankitadhikari2004/koding/tree/master/2634-minimum-common-value) |
 ## Data Stream
 |  |
 | ------- |
