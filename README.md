@@ -135,6 +135,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ankitadhikari2004/koding/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ankitadhikari2004/koding/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/ankitadhikari2004/koding/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankitadhikari2004/koding/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3188-find-champion-i](https://github.com/ankitadhikari2004/koding/tree/master/3188-find-champion-i) |
 | [3194-find-words-containing-character](https://github.com/ankitadhikari2004/koding/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ankitadhikari2004/koding/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -203,6 +204,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/ankitadhikari2004/koding/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ankitadhikari2004/koding/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/ankitadhikari2004/koding/tree/master/2128-reverse-prefix-of-word) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankitadhikari2004/koding/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/ankitadhikari2004/koding/tree/master/3447-clear-digits) |
 ## Tree
 |  |
@@ -729,6 +731,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ankitadhikari2004/koding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ankitadhikari2004/koding/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/ankitadhikari2004/koding/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankitadhikari2004/koding/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3226-minimum-number-game](https://github.com/ankitadhikari2004/koding/tree/master/3226-minimum-number-game) |
 | [3647-zero-array-transformation-iii](https://github.com/ankitadhikari2004/koding/tree/master/3647-zero-array-transformation-iii) |
 ## Bucket Sort
@@ -920,6 +923,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/ankitadhikari2004/koding/tree/master/2047-find-a-peak-element-ii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankitadhikari2004/koding/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2634-minimum-common-value](https://github.com/ankitadhikari2004/koding/tree/master/2634-minimum-common-value) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankitadhikari2004/koding/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Data Stream
 |  |
 | ------- |
@@ -1035,6 +1039,7 @@
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankitadhikari2004/koding/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Iterator
 |  |
 | ------- |
@@ -1074,11 +1079,13 @@
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/ankitadhikari2004/koding/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/ankitadhikari2004/koding/tree/master/0406-queue-reconstruction-by-height) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankitadhikari2004/koding/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/ankitadhikari2004/koding/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/ankitadhikari2004/koding/tree/master/0406-queue-reconstruction-by-height) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankitadhikari2004/koding/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Brainteaser
 |  |
 | ------- |
