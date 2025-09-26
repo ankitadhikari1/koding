@@ -57,6 +57,7 @@
 | [0485-max-consecutive-ones](https://github.com/ankitadhikari2004/koding/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/ankitadhikari2004/koding/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/ankitadhikari2004/koding/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/ankitadhikari2004/koding/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankitadhikari2004/koding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ankitadhikari2004/koding/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/ankitadhikari2004/koding/tree/master/0611-valid-triangle-number) |
@@ -164,6 +165,7 @@
 | [0190-reverse-bits](https://github.com/ankitadhikari2004/koding/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/ankitadhikari2004/koding/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/ankitadhikari2004/koding/tree/master/0389-find-the-difference) |
+| [0526-beautiful-arrangement](https://github.com/ankitadhikari2004/koding/tree/master/0526-beautiful-arrangement) |
 | [0861-flipping-an-image](https://github.com/ankitadhikari2004/koding/tree/master/0861-flipping-an-image) |
 | [1610-xor-operation-in-an-array](https://github.com/ankitadhikari2004/koding/tree/master/1610-xor-operation-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ankitadhikari2004/koding/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -505,6 +507,7 @@
 | [0337-house-robber-iii](https://github.com/ankitadhikari2004/koding/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/ankitadhikari2004/koding/tree/master/0410-split-array-largest-sum) |
 | [0518-coin-change-ii](https://github.com/ankitadhikari2004/koding/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/ankitadhikari2004/koding/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/ankitadhikari2004/koding/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankitadhikari2004/koding/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/ankitadhikari2004/koding/tree/master/0741-cherry-pickup) |
@@ -649,6 +652,7 @@
 | [0131-palindrome-partitioning](https://github.com/ankitadhikari2004/koding/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/ankitadhikari2004/koding/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/ankitadhikari2004/koding/tree/master/0257-binary-tree-paths) |
+| [0526-beautiful-arrangement](https://github.com/ankitadhikari2004/koding/tree/master/0526-beautiful-arrangement) |
 | [0813-all-paths-from-source-to-target](https://github.com/ankitadhikari2004/koding/tree/master/0813-all-paths-from-source-to-target) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/ankitadhikari2004/koding/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1065,6 +1069,7 @@
 ## Bitmask
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/ankitadhikari2004/koding/tree/master/0526-beautiful-arrangement) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankitadhikari2004/koding/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Merge Sort
 |  |
