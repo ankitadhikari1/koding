@@ -1,38 +1,37 @@
 class Solution {
 public:
 
-    bool func(int mid,int days,vector<int>&weights){
+    bool func(vector<int>&nums,int days,int weight){
         int cnt = 1;
         int sum = 0;
-        for(int i=0;i<weights.size();i++){
-            if(weights[i]>mid)return false;
-            if(sum+weights[i]>mid){
+        for(int i=0;i<nums.size();i++){
+            if(sum + nums[i] > weight){
                 cnt++;
-                sum=0;
-                if(cnt>days)return false;
+                sum = nums[i];
             }
-            sum+=weights[i];
-            
+            else{
+                sum += nums[i];
+            }
         }
-        return true;
+
+        return cnt <= days;
     }
 
 
 
-    int shipWithinDays(vector<int>& weights, int days) {
-        int low = *max_element(weights.begin(),weights.end());
-        int high = accumulate(weights.begin(),weights.end(),0);
-        int ans = high;
+    int shipWithinDays(vector<int>& nums, int days) {
+        int low = *max_element(nums.begin(),nums.end());
+        int high = accumulate(nums.begin(),nums.end(),0);
         while(low<=high){
-            int mid = low + (high-low)/2;
-            if(func(mid,days,weights)){
-                ans = mid ;
-                high = mid-1;
+            int mid = low + (high - low)/2;
+            bool flag = func(nums,days,mid);
+            if(flag){
+                high = mid - 1;
             }
             else{
                 low = mid + 1;
             }
         }
-        return ans;
+        return low;
     }
 };
