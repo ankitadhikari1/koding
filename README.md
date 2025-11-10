@@ -13,6 +13,7 @@
 | [0040-combination-sum-ii](https://github.com/ankitadhikari2004/koding/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/ankitadhikari2004/koding/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/ankitadhikari2004/koding/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/ankitadhikari2004/koding/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ankitadhikari2004/koding/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ankitadhikari2004/koding/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ankitadhikari2004/koding/tree/master/0064-minimum-path-sum) |
@@ -492,6 +493,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ankitadhikari2004/koding/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ankitadhikari2004/koding/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/ankitadhikari2004/koding/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ankitadhikari2004/koding/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ankitadhikari2004/koding/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ankitadhikari2004/koding/tree/master/0070-climbing-stairs) |
@@ -777,6 +779,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankitadhikari2004/koding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ankitadhikari2004/koding/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/ankitadhikari2004/koding/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/ankitadhikari2004/koding/tree/master/0169-majority-element) |
