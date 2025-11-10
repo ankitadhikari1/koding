@@ -44,6 +44,7 @@
 | [0204-count-primes](https://github.com/ankitadhikari2004/koding/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/ankitadhikari2004/koding/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ankitadhikari2004/koding/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/ankitadhikari2004/koding/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/ankitadhikari2004/koding/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/ankitadhikari2004/koding/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/ankitadhikari2004/koding/tree/master/0307-range-sum-query-mutable) |
@@ -795,6 +796,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitadhikari2004/koding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ankitadhikari2004/koding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ankitadhikari2004/koding/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/ankitadhikari2004/koding/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitadhikari2004/koding/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ankitadhikari2004/koding/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/0528-swapping-nodes-in-a-linked-list) |
