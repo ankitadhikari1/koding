@@ -166,6 +166,7 @@
 | [3731-sum-of-variable-length-subarrays](https://github.com/ankitadhikari2004/koding/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3778-transform-array-by-parity](https://github.com/ankitadhikari2004/koding/tree/master/3778-transform-array-by-parity) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/ankitadhikari2004/koding/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [4058-compute-alternating-sum](https://github.com/ankitadhikari2004/koding/tree/master/4058-compute-alternating-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -466,6 +467,7 @@
 | [3447-clear-digits](https://github.com/ankitadhikari2004/koding/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/ankitadhikari2004/koding/tree/master/3533-snake-in-matrix) |
 | [3811-reverse-degree-of-a-string](https://github.com/ankitadhikari2004/koding/tree/master/3811-reverse-degree-of-a-string) |
+| [4058-compute-alternating-sum](https://github.com/ankitadhikari2004/koding/tree/master/4058-compute-alternating-sum) |
 ## Math
 |  |
 | ------- |
