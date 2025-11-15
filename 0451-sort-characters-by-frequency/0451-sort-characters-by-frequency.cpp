@@ -1,27 +1,19 @@
 class Solution {
 public:
     string frequencySort(string s) {
-        int n = s.size();
-        unordered_map<char,int> mp;
-        for(auto &it : s){
-            mp[it]++;
+        map<char , int>arr;
+        for(int i=0;i<s.size();i++){
+            arr[s[i]-'a']++;
         }
-
-        vector<pair<int,char>> v;
-        for(auto& it : mp){
-            v.push_back({it.second , it.first});
-        }
-        sort(v.begin() , v.end());
-        reverse(v.begin() , v.end());
-
-        string ans = "";
-        for(int i=0; i < v.size(); i++){
-            int size = v[i].first;
-            while(size--){
-                ans += v[i].second;
+        sort(s.begin(),s.end(),[&](char a , char b){
+            if(arr[a-'a']>arr[b-'a']){
+                return true;
             }
-        }
-        return ans;
-
+            if(arr[a-'a']==arr[b-'a']){
+                return a<b;
+            }
+            return false;
+        });
+        return s;
     }
 };
