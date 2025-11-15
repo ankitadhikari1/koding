@@ -97,6 +97,7 @@
 | [1436-get-watched-videos-by-your-friends](https://github.com/ankitadhikari2004/koding/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankitadhikari2004/koding/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ankitadhikari2004/koding/tree/master/1464-reduce-array-size-to-the-half) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitadhikari2004/koding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ankitadhikari2004/koding/tree/master/1505-create-target-array-in-the-given-order) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ankitadhikari2004/koding/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/ankitadhikari2004/koding/tree/master/1559-cherry-pickup-ii) |
@@ -571,6 +572,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ankitadhikari2004/koding/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/ankitadhikari2004/koding/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ankitadhikari2004/koding/tree/master/1464-reduce-array-size-to-the-half) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitadhikari2004/koding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1775-design-an-ordered-stream](https://github.com/ankitadhikari2004/koding/tree/master/1775-design-an-ordered-stream) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ankitadhikari2004/koding/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ankitadhikari2004/koding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -722,6 +724,7 @@
 | [1436-get-watched-videos-by-your-friends](https://github.com/ankitadhikari2004/koding/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankitadhikari2004/koding/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ankitadhikari2004/koding/tree/master/1464-reduce-array-size-to-the-half) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitadhikari2004/koding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ankitadhikari2004/koding/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ankitadhikari2004/koding/tree/master/1675-magnetic-force-between-two-balls) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ankitadhikari2004/koding/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -1106,6 +1109,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/ankitadhikari2004/koding/tree/master/0948-sort-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitadhikari2004/koding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Geometry
 |  |
 | ------- |
