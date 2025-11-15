@@ -166,6 +166,7 @@
 | [3731-sum-of-variable-length-subarrays](https://github.com/ankitadhikari2004/koding/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3778-transform-array-by-parity](https://github.com/ankitadhikari2004/koding/tree/master/3778-transform-array-by-parity) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/ankitadhikari2004/koding/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [4012-earliest-time-to-finish-one-task](https://github.com/ankitadhikari2004/koding/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4058-compute-alternating-sum](https://github.com/ankitadhikari2004/koding/tree/master/4058-compute-alternating-sum) |
 ## Bit Manipulation
 |  |
