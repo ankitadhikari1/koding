@@ -473,6 +473,7 @@
 | [1806-count-of-matches-in-tournament](https://github.com/ankitadhikari2004/koding/tree/master/1806-count-of-matches-in-tournament) |
 | [1879-maximum-score-from-removing-stones](https://github.com/ankitadhikari2004/koding/tree/master/1879-maximum-score-from-removing-stones) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2032-largest-odd-number-in-string](https://github.com/ankitadhikari2004/koding/tree/master/2032-largest-odd-number-in-string) |
 | [2206-detonate-the-maximum-bombs](https://github.com/ankitadhikari2004/koding/tree/master/2206-detonate-the-maximum-bombs) |
 | [2238-a-number-after-a-double-reversal](https://github.com/ankitadhikari2004/koding/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/ankitadhikari2004/koding/tree/master/2383-add-two-integers) |
@@ -626,6 +627,7 @@
 | [1954-replace-all-digits-with-characters](https://github.com/ankitadhikari2004/koding/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ankitadhikari2004/koding/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/ankitadhikari2004/koding/tree/master/1970-sorting-the-sentence) |
+| [2032-largest-odd-number-in-string](https://github.com/ankitadhikari2004/koding/tree/master/2032-largest-odd-number-in-string) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankitadhikari2004/koding/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/ankitadhikari2004/koding/tree/master/2128-reverse-prefix-of-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ankitadhikari2004/koding/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -840,6 +842,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/ankitadhikari2004/koding/tree/master/1464-reduce-array-size-to-the-half) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ankitadhikari2004/koding/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1879-maximum-score-from-removing-stones](https://github.com/ankitadhikari2004/koding/tree/master/1879-maximum-score-from-removing-stones) |
+| [2032-largest-odd-number-in-string](https://github.com/ankitadhikari2004/koding/tree/master/2032-largest-odd-number-in-string) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankitadhikari2004/koding/tree/master/2379-maximum-total-importance-of-roads) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ankitadhikari2004/koding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/ankitadhikari2004/koding/tree/master/2590-maximum-star-sum-of-a-graph) |
