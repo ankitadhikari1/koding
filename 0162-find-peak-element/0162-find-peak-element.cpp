@@ -9,7 +9,7 @@ public:
         if(nums[nums.size()-1]>nums[nums.size()-2])return nums.size()-1;
 
 
-        while(low<high){
+        while(low<=high){
             int mid = low + (high - low)/2;
 
 
