@@ -811,6 +811,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankitadhikari2004/koding/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/ankitadhikari2004/koding/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -1064,6 +1065,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankitadhikari2004/koding/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/ankitadhikari2004/koding/tree/master/0023-merge-k-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/0206-reverse-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/0908-middle-of-the-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ankitadhikari2004/koding/tree/master/2299-merge-nodes-in-between-zeros) |
