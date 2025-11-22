@@ -451,6 +451,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ankitadhikari2004/koding/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/ankitadhikari2004/koding/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/ankitadhikari2004/koding/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/ankitadhikari2004/koding/tree/master/0289-game-of-life) |
@@ -477,6 +478,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankitadhikari2004/koding/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/ankitadhikari2004/koding/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/ankitadhikari2004/koding/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ankitadhikari2004/koding/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ankitadhikari2004/koding/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ankitadhikari2004/koding/tree/master/0070-climbing-stairs) |
@@ -624,6 +626,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankitadhikari2004/koding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ankitadhikari2004/koding/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitadhikari2004/koding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/ankitadhikari2004/koding/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/ankitadhikari2004/koding/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/ankitadhikari2004/koding/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/ankitadhikari2004/koding/tree/master/0131-palindrome-partitioning) |
