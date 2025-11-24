@@ -481,6 +481,7 @@
 | [0013-roman-to-integer](https://github.com/ankitadhikari2004/koding/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/ankitadhikari2004/koding/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ankitadhikari2004/koding/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/ankitadhikari2004/koding/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ankitadhikari2004/koding/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ankitadhikari2004/koding/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankitadhikari2004/koding/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -818,6 +819,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankitadhikari2004/koding/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/ankitadhikari2004/koding/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/ankitadhikari2004/koding/tree/master/1013-fibonacci-number) |
