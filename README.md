@@ -498,6 +498,7 @@
 | [1806-count-of-matches-in-tournament](https://github.com/ankitadhikari2004/koding/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ankitadhikari2004/koding/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1879-maximum-score-from-removing-stones](https://github.com/ankitadhikari2004/koding/tree/master/1879-maximum-score-from-removing-stones) |
+| [1922-count-good-numbers](https://github.com/ankitadhikari2004/koding/tree/master/1922-count-good-numbers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/ankitadhikari2004/koding/tree/master/2032-largest-odd-number-in-string) |
 | [2206-detonate-the-maximum-bombs](https://github.com/ankitadhikari2004/koding/tree/master/2206-detonate-the-maximum-bombs) |
@@ -823,6 +824,7 @@
 | [0206-reverse-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/ankitadhikari2004/koding/tree/master/1013-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/ankitadhikari2004/koding/tree/master/1922-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
