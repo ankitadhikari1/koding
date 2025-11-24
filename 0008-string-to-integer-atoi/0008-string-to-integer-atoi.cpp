@@ -1,42 +1,46 @@
 class Solution {
 public:
+
+    long long recurse(const string &s, int i, long long num, int sign) {
+        // stop if non-digit
+        if (i >= (int)s.size() || !isdigit(s[i]))
+            return num * sign;
+
+        // convert char to digit and update
+        int d = s[i] - '0';
+
+        long long next = num * 10 + d;
+
+        // check overflow while positive
+        if (sign == 1 && next >= INT_MAX)
+            return INT_MAX;
+
+        // check underflow while negative
+        if (sign == -1 && -next <= INT_MIN)
+            return INT_MIN;
+
+        return recurse(s, i + 1, next, sign);
+    }
+
+
     int myAtoi(string s) {
     
-        int output=0; 
-        int len = s.size(); 
-        int neg = false;
+        int i = 0;
+        int n = s.size();
 
-        if (len ==0 )
-            return 0; 
+        // 1. Skip leading spaces
+        while (i < n && s[i] == ' ')
+            i++;
 
-        int idx = 0;
-        while (idx < len && s[idx] == ' '){
-            idx++;
+        // 2. Handle sign
+        int sign = 1;
+        if (i < n && (s[i] == '+' || s[i] == '-')) {
+            if (s[i] == '-') sign = -1;
+            i++;
         }
 
-        if (idx < len){
-            if (s[idx] == '-'){
-                neg = true; 
-                idx++;
-            } else if ( s[idx] == '+'){
-                idx++;
-            }
-        }
-
-        while (idx < len && isdigit(s[idx])){
-            int digit = s[idx] - '0';
-
-            if (output > INT_MAX /10 || output == INT_MAX/10 && digit > 7){
-                return neg ? INT_MIN : INT_MAX;
-            }
-
-            output = output * 10 + digit; 
-            idx++;
-        }
-
-        if (neg)
-            output = -output; 
-
-        return output;
+        // 3. Call recursive helper starting here
+        long long ans = recurse(s, i, 0, sign);
+        return ans;
     }
 };
