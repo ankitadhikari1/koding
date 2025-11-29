@@ -1,26 +1,23 @@
 class Solution {
 public:
 
-     void func(int ind , string digits ,vector<string>dict, vector<string>&ans,string temp){
+    void func(int ind , string digits , string temp ,vector<string>&ans,vector<string>&letters ){
         if(ind == digits.size()){
             ans.push_back(temp);
-            return ;
+            return;
         }
-
-        int index = digits[ind] - '0';
-
-        for(int i=0;i<dict[index].size();i++){
-            func(ind+1,digits,dict,ans,temp+dict[index][i]);
+        int i = digits[ind]-'0';
+        for(auto & it : letters[i-2]){
+            func(ind+1,digits,temp+it,ans,letters);
         }
     }
 
 
     vector<string> letterCombinations(string digits) {
-        if(digits.size()==0)return {};
-        vector<string> dict = {"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
+        vector<string>letters = {"abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
         vector<string>ans;
         string temp = "";
-        func(0,digits,dict,ans,temp);
+        func(0,digits,temp,ans,letters);
         return ans;
     }
 };
