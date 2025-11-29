@@ -6,10 +6,11 @@ public:
             ans.push_back(temp);
             return;
         }
+        func(ind+1,nums,temp,ans);
         temp.push_back(nums[ind]);
         func(ind+1,nums,temp,ans);
         temp.pop_back();
-        func(ind+1,nums,temp,ans);
+        
 
     }
 
