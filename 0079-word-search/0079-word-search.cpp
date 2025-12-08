@@ -7,8 +7,7 @@ public:
         
         if (board[i][j] != word[ind]) return false;
 
-// if this was the last character and it matched -> success
-if (ind == (int)word.size() - 1) return true;
+        if (ind == (int)word.size() - 1) return true;
 
         
         char ch = board[i][j];
