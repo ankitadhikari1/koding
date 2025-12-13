@@ -867,6 +867,7 @@
 | [0861-flipping-an-image](https://github.com/ankitadhikari2004/koding/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/ankitadhikari2004/koding/tree/master/0917-boats-to-save-people) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/ankitadhikari2004/koding/tree/master/2128-reverse-prefix-of-word) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankitadhikari2004/koding/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -1096,6 +1097,7 @@
 | [0328-odd-even-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/0908-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ankitadhikari2004/koding/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
