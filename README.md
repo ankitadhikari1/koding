@@ -66,6 +66,7 @@
 | [0526-beautiful-arrangement](https://github.com/ankitadhikari2004/koding/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankitadhikari2004/koding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ankitadhikari2004/koding/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/ankitadhikari2004/koding/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/ankitadhikari2004/koding/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/ankitadhikari2004/koding/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/ankitadhikari2004/koding/tree/master/0658-find-k-closest-elements) |
@@ -207,6 +208,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ankitadhikari2004/koding/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/ankitadhikari2004/koding/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/ankitadhikari2004/koding/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankitadhikari2004/koding/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ankitadhikari2004/koding/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ankitadhikari2004/koding/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -588,6 +590,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/ankitadhikari2004/koding/tree/master/0433-minimum-genetic-mutation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankitadhikari2004/koding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ankitadhikari2004/koding/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/ankitadhikari2004/koding/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/ankitadhikari2004/koding/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/ankitadhikari2004/koding/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/ankitadhikari2004/koding/tree/master/0692-top-k-frequent-words) |
