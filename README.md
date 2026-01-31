@@ -1217,4 +1217,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/ankitadhikari2004/koding/tree/master/3462-vowels-game-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ankitadhikari2004/koding/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
