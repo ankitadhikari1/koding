@@ -99,6 +99,7 @@
 | [1117-as-far-from-land-as-possible](https://github.com/ankitadhikari2004/koding/tree/master/1117-as-far-from-land-as-possible) |
 | [1127-last-stone-weight](https://github.com/ankitadhikari2004/koding/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ankitadhikari2004/koding/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1219-path-with-maximum-gold](https://github.com/ankitadhikari2004/koding/tree/master/1219-path-with-maximum-gold) |
 | [1241-decompress-run-length-encoded-list](https://github.com/ankitadhikari2004/koding/tree/master/1241-decompress-run-length-encoded-list) |
 | [1380-number-of-closed-islands](https://github.com/ankitadhikari2004/koding/tree/master/1380-number-of-closed-islands) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ankitadhikari2004/koding/tree/master/1395-minimum-time-visiting-all-points) |
@@ -447,6 +448,7 @@
 | [1104-coloring-a-border](https://github.com/ankitadhikari2004/koding/tree/master/1104-coloring-a-border) |
 | [1117-as-far-from-land-as-possible](https://github.com/ankitadhikari2004/koding/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ankitadhikari2004/koding/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1219-path-with-maximum-gold](https://github.com/ankitadhikari2004/koding/tree/master/1219-path-with-maximum-gold) |
 | [1380-number-of-closed-islands](https://github.com/ankitadhikari2004/koding/tree/master/1380-number-of-closed-islands) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankitadhikari2004/koding/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/ankitadhikari2004/koding/tree/master/1559-cherry-pickup-ii) |
@@ -715,6 +717,7 @@
 | [0526-beautiful-arrangement](https://github.com/ankitadhikari2004/koding/tree/master/0526-beautiful-arrangement) |
 | [0813-all-paths-from-source-to-target](https://github.com/ankitadhikari2004/koding/tree/master/0813-all-paths-from-source-to-target) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/ankitadhikari2004/koding/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1219-path-with-maximum-gold](https://github.com/ankitadhikari2004/koding/tree/master/1219-path-with-maximum-gold) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
