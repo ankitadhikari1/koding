@@ -512,6 +512,7 @@
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ankitadhikari2004/koding/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1879-maximum-score-from-removing-stones](https://github.com/ankitadhikari2004/koding/tree/master/1879-maximum-score-from-removing-stones) |
 | [1922-count-good-numbers](https://github.com/ankitadhikari2004/koding/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/ankitadhikari1/koding/tree/master/1927-sum-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/ankitadhikari2004/koding/tree/master/2032-largest-odd-number-in-string) |
 | [2206-detonate-the-maximum-bombs](https://github.com/ankitadhikari2004/koding/tree/master/2206-detonate-the-maximum-bombs) |
@@ -674,6 +675,7 @@
 | [1797-goal-parser-interpretation](https://github.com/ankitadhikari2004/koding/tree/master/1797-goal-parser-interpretation) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ankitadhikari2004/koding/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1899-count-items-matching-a-rule](https://github.com/ankitadhikari2004/koding/tree/master/1899-count-items-matching-a-rule) |
+| [1927-sum-game](https://github.com/ankitadhikari1/koding/tree/master/1927-sum-game) |
 | [1954-replace-all-digits-with-characters](https://github.com/ankitadhikari2004/koding/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ankitadhikari2004/koding/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/ankitadhikari2004/koding/tree/master/1970-sorting-the-sentence) |
@@ -918,6 +920,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/ankitadhikari2004/koding/tree/master/1464-reduce-array-size-to-the-half) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ankitadhikari2004/koding/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1879-maximum-score-from-removing-stones](https://github.com/ankitadhikari2004/koding/tree/master/1879-maximum-score-from-removing-stones) |
+| [1927-sum-game](https://github.com/ankitadhikari1/koding/tree/master/1927-sum-game) |
 | [2032-largest-odd-number-in-string](https://github.com/ankitadhikari2004/koding/tree/master/2032-largest-odd-number-in-string) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankitadhikari2004/koding/tree/master/2379-maximum-total-importance-of-roads) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ankitadhikari2004/koding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -1224,6 +1227,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/ankitadhikari1/koding/tree/master/1927-sum-game) |
 | [3462-vowels-game-in-a-string](https://github.com/ankitadhikari2004/koding/tree/master/3462-vowels-game-in-a-string) |
 ## Union-Find
 |  |
