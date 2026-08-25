@@ -19,6 +19,8 @@ public:
                 ans+=mp[s[i]];
             }
         }
+
         return ans;
+
     }
 };
