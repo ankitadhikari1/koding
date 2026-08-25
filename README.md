@@ -172,6 +172,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ankitadhikari2004/koding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/ankitadhikari2004/koding/tree/master/3582-find-indices-of-stable-mountains) |
 | [3647-zero-array-transformation-iii](https://github.com/ankitadhikari2004/koding/tree/master/3647-zero-array-transformation-iii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ankitadhikari1/koding/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/ankitadhikari2004/koding/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3778-transform-array-by-parity](https://github.com/ankitadhikari2004/koding/tree/master/3778-transform-array-by-parity) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/ankitadhikari2004/koding/tree/master/3832-minimum-cost-to-reach-every-position) |
@@ -636,6 +637,7 @@
 | [3206-find-common-elements-between-two-arrays](https://github.com/ankitadhikari2004/koding/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankitadhikari2004/koding/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ankitadhikari2004/koding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ankitadhikari1/koding/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankitadhikari2004/koding/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
