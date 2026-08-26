@@ -208,6 +208,7 @@
 | [0658-find-k-closest-elements](https://github.com/ankitadhikari2004/koding/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankitadhikari2004/koding/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ankitadhikari2004/koding/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ankitadhikari1/koding/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ankitadhikari2004/koding/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
@@ -701,6 +702,7 @@
 | [2502-sort-the-people](https://github.com/ankitadhikari2004/koding/tree/master/2502-sort-the-people) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ankitadhikari2004/koding/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/ankitadhikari2004/koding/tree/master/2887-sort-vowels-in-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ankitadhikari1/koding/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3055-maximum-odd-binary-number](https://github.com/ankitadhikari2004/koding/tree/master/3055-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/ankitadhikari2004/koding/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/ankitadhikari2004/koding/tree/master/3379-score-of-a-string) |
