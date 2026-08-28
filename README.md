@@ -712,6 +712,7 @@
 | [3533-snake-in-matrix](https://github.com/ankitadhikari2004/koding/tree/master/3533-snake-in-matrix) |
 | [3567-convert-date-to-binary](https://github.com/ankitadhikari2004/koding/tree/master/3567-convert-date-to-binary) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankitadhikari1/koding/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ankitadhikari1/koding/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ankitadhikari2004/koding/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/ankitadhikari2004/koding/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankitadhikari2004/koding/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -744,6 +745,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ankitadhikari2004/koding/tree/master/2442-number-of-arithmetic-triplets) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankitadhikari1/koding/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ankitadhikari1/koding/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
@@ -916,6 +918,7 @@
 | [2634-minimum-common-value](https://github.com/ankitadhikari2004/koding/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ankitadhikari2004/koding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ankitadhikari2004/koding/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ankitadhikari1/koding/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
