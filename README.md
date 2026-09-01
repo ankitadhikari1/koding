@@ -171,6 +171,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ankitadhikari2004/koding/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ankitadhikari2004/koding/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3533-snake-in-matrix](https://github.com/ankitadhikari2004/koding/tree/master/3533-snake-in-matrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankitadhikari1/koding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ankitadhikari2004/koding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/ankitadhikari2004/koding/tree/master/3582-find-indices-of-stable-mountains) |
 | [3647-zero-array-transformation-iii](https://github.com/ankitadhikari2004/koding/tree/master/3647-zero-array-transformation-iii) |
@@ -198,6 +199,7 @@
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ankitadhikari2004/koding/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/ankitadhikari2004/koding/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ankitadhikari2004/koding/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankitadhikari1/koding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Queue
 |  |
 | ------- |
@@ -467,6 +469,7 @@
 | [2737-row-with-maximum-ones](https://github.com/ankitadhikari2004/koding/tree/master/2737-row-with-maximum-ones) |
 | [3188-find-champion-i](https://github.com/ankitadhikari2004/koding/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankitadhikari2004/koding/tree/master/3227-find-missing-and-repeated-values) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankitadhikari1/koding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -642,6 +645,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ankitadhikari2004/koding/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ankitadhikari2004/koding/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankitadhikari2004/koding/tree/master/3227-find-missing-and-repeated-values) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankitadhikari1/koding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ankitadhikari2004/koding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ankitadhikari1/koding/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankitadhikari1/koding/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -1020,6 +1024,7 @@
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ankitadhikari2004/koding/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2793-count-the-number-of-complete-components](https://github.com/ankitadhikari2004/koding/tree/master/2793-count-the-number-of-complete-components) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankitadhikari1/koding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search Tree
 |  |
 | ------- |
