@@ -182,6 +182,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/ankitadhikari1/koding/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ankitadhikari1/koding/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/ankitadhikari1/koding/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/ankitadhikari1/koding/tree/master/3904-smallest-stable-index-ii) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/ankitadhikari2004/koding/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4058-compute-alternating-sum](https://github.com/ankitadhikari2004/koding/tree/master/4058-compute-alternating-sum) |
 ## Bit Manipulation
@@ -234,6 +235,7 @@
 | [3647-zero-array-transformation-iii](https://github.com/ankitadhikari2004/koding/tree/master/3647-zero-array-transformation-iii) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/ankitadhikari2004/koding/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/ankitadhikari1/koding/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/ankitadhikari1/koding/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
 |  |
 | ------- |
