@@ -583,6 +583,7 @@
 | [0741-cherry-pickup](https://github.com/ankitadhikari2004/koding/tree/master/0741-cherry-pickup) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ankitadhikari2004/koding/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0863-sum-of-distances-in-tree](https://github.com/ankitadhikari2004/koding/tree/master/0863-sum-of-distances-in-tree) |
+| [0940-distinct-subsequences-ii](https://github.com/ankitadhikari1/koding/tree/master/0940-distinct-subsequences-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/ankitadhikari2004/koding/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/ankitadhikari2004/koding/tree/master/1013-fibonacci-number) |
 | [1117-as-far-from-land-as-possible](https://github.com/ankitadhikari2004/koding/tree/master/1117-as-far-from-land-as-possible) |
@@ -691,6 +692,7 @@
 | [0782-jewels-and-stones](https://github.com/ankitadhikari2004/koding/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/ankitadhikari2004/koding/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/ankitadhikari2004/koding/tree/master/0822-unique-morse-code-words) |
+| [0940-distinct-subsequences-ii](https://github.com/ankitadhikari1/koding/tree/master/0940-distinct-subsequences-ii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/ankitadhikari2004/koding/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1078-remove-outermost-parentheses](https://github.com/ankitadhikari2004/koding/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ankitadhikari2004/koding/tree/master/1112-find-words-that-can-be-formed-by-characters) |
