@@ -304,6 +304,7 @@
 | [1492-time-needed-to-inform-all-employees](https://github.com/ankitadhikari2004/koding/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ankitadhikari2004/koding/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ankitadhikari1/koding/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ankitadhikari2004/koding/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/ankitadhikari2004/koding/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -375,6 +376,7 @@
 | [1753-path-with-minimum-effort](https://github.com/ankitadhikari2004/koding/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ankitadhikari2004/koding/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/ankitadhikari2004/koding/tree/master/2206-detonate-the-maximum-bombs) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ankitadhikari1/koding/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ankitadhikari2004/koding/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ankitadhikari2004/koding/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -428,6 +430,7 @@
 | [1254-deepest-leaves-sum](https://github.com/ankitadhikari2004/koding/tree/master/1254-deepest-leaves-sum) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ankitadhikari2004/koding/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ankitadhikari1/koding/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ankitadhikari2004/koding/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/ankitadhikari2004/koding/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/2416-evaluate-boolean-binary-tree) |
