@@ -166,6 +166,7 @@
 | [3226-minimum-number-game](https://github.com/ankitadhikari2004/koding/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankitadhikari2004/koding/tree/master/3227-find-missing-and-repeated-values) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/ankitadhikari2004/koding/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankitadhikari1/koding/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3429-special-array-i](https://github.com/ankitadhikari2004/koding/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ankitadhikari2004/koding/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ankitadhikari2004/koding/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -596,6 +597,7 @@
 | [1872-stone-game-viii](https://github.com/ankitadhikari1/koding/tree/master/1872-stone-game-viii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ankitadhikari2004/koding/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankitadhikari2004/koding/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankitadhikari1/koding/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Memoization
 |  |
 | ------- |
@@ -828,6 +830,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/ankitadhikari2004/koding/tree/master/2887-sort-vowels-in-a-string) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ankitadhikari1/koding/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3226-minimum-number-game](https://github.com/ankitadhikari2004/koding/tree/master/3226-minimum-number-game) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankitadhikari1/koding/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ankitadhikari2004/koding/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3647-zero-array-transformation-iii](https://github.com/ankitadhikari2004/koding/tree/master/3647-zero-array-transformation-iii) |
 | [3778-transform-array-by-parity](https://github.com/ankitadhikari2004/koding/tree/master/3778-transform-array-by-parity) |
@@ -1081,6 +1084,7 @@
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankitadhikari2004/koding/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2634-minimum-common-value](https://github.com/ankitadhikari2004/koding/tree/master/2634-minimum-common-value) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankitadhikari2004/koding/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankitadhikari1/koding/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Data Stream
 |  |
 | ------- |
