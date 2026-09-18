@@ -651,6 +651,7 @@
 | [1436-get-watched-videos-by-your-friends](https://github.com/ankitadhikari2004/koding/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ankitadhikari2004/koding/tree/master/1464-reduce-array-size-to-the-half) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitadhikari2004/koding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankitadhikari1/koding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1775-design-an-ordered-stream](https://github.com/ankitadhikari2004/koding/tree/master/1775-design-an-ordered-stream) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ankitadhikari2004/koding/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ankitadhikari2004/koding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -710,6 +711,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ankitadhikari2004/koding/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ankitadhikari2004/koding/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ankitadhikari2004/koding/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankitadhikari1/koding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1651-shuffle-string](https://github.com/ankitadhikari2004/koding/tree/master/1651-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ankitadhikari2004/koding/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ankitadhikari2004/koding/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -824,6 +826,7 @@
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankitadhikari2004/koding/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ankitadhikari2004/koding/tree/master/1464-reduce-array-size-to-the-half) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitadhikari2004/koding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankitadhikari1/koding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ankitadhikari2004/koding/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ankitadhikari2004/koding/tree/master/1675-magnetic-force-between-two-balls) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ankitadhikari2004/koding/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -972,6 +975,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/ankitadhikari2004/koding/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/ankitadhikari2004/koding/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ankitadhikari2004/koding/tree/master/1464-reduce-array-size-to-the-half) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankitadhikari1/koding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ankitadhikari2004/koding/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1879-maximum-score-from-removing-stones](https://github.com/ankitadhikari2004/koding/tree/master/1879-maximum-score-from-removing-stones) |
 | [1927-sum-game](https://github.com/ankitadhikari1/koding/tree/master/1927-sum-game) |
