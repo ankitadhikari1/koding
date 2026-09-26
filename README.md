@@ -126,6 +126,7 @@
 | [1753-path-with-minimum-effort](https://github.com/ankitadhikari2004/koding/tree/master/1753-path-with-minimum-effort) |
 | [1775-design-an-ordered-stream](https://github.com/ankitadhikari2004/koding/tree/master/1775-design-an-ordered-stream) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ankitadhikari2004/koding/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ankitadhikari1/koding/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ankitadhikari2004/koding/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1833-find-the-highest-altitude](https://github.com/ankitadhikari2004/koding/tree/master/1833-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/ankitadhikari1/koding/tree/master/1872-stone-game-viii) |
@@ -658,6 +659,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankitadhikari1/koding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitadhikari1/koding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1775-design-an-ordered-stream](https://github.com/ankitadhikari2004/koding/tree/master/1775-design-an-ordered-stream) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ankitadhikari1/koding/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ankitadhikari2004/koding/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ankitadhikari2004/koding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ankitadhikari2004/koding/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -722,6 +724,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ankitadhikari2004/koding/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/ankitadhikari2004/koding/tree/master/1797-goal-parser-interpretation) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ankitadhikari2004/koding/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ankitadhikari1/koding/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1899-count-items-matching-a-rule](https://github.com/ankitadhikari2004/koding/tree/master/1899-count-items-matching-a-rule) |
 | [1927-sum-game](https://github.com/ankitadhikari1/koding/tree/master/1927-sum-game) |
 | [1954-replace-all-digits-with-characters](https://github.com/ankitadhikari2004/koding/tree/master/1954-replace-all-digits-with-characters) |
