@@ -255,6 +255,7 @@
 | [0234-palindrome-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/0234-palindrome-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/ankitadhikari2004/koding/tree/master/1078-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ankitadhikari1/koding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/ankitadhikari2004/koding/tree/master/1552-build-an-array-with-stack-operations) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ankitadhikari2004/koding/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/ankitadhikari2004/koding/tree/master/2128-reverse-prefix-of-word) |
@@ -716,6 +717,7 @@
 | [1030-smallest-string-starting-from-leaf](https://github.com/ankitadhikari2004/koding/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1078-remove-outermost-parentheses](https://github.com/ankitadhikari2004/koding/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ankitadhikari2004/koding/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ankitadhikari1/koding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ankitadhikari2004/koding/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ankitadhikari2004/koding/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankitadhikari1/koding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -1318,4 +1320,8 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/ankitadhikari1/koding/tree/master/1872-stone-game-viii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ankitadhikari1/koding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
