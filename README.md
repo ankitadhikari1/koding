@@ -246,6 +246,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ankitadhikari1/koding/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/0145-binary-tree-postorder-traversal) |
@@ -575,6 +576,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ankitadhikari2004/koding/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ankitadhikari2004/koding/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ankitadhikari1/koding/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/ankitadhikari2004/koding/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ankitadhikari2004/koding/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ankitadhikari2004/koding/tree/master/0064-minimum-path-sum) |
@@ -693,6 +695,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankitadhikari2004/koding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ankitadhikari2004/koding/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitadhikari2004/koding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/ankitadhikari1/koding/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/ankitadhikari2004/koding/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/ankitadhikari2004/koding/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/ankitadhikari1/koding/tree/master/0115-distinct-subsequences) |
@@ -1323,5 +1326,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ankitadhikari1/koding/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ankitadhikari1/koding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
