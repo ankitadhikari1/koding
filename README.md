@@ -159,6 +159,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ankitadhikari2004/koding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/ankitadhikari2004/koding/tree/master/2714-left-and-right-sum-differences) |
 | [2737-row-with-maximum-ones](https://github.com/ankitadhikari2004/koding/tree/master/2737-row-with-maximum-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ankitadhikari1/koding/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ankitadhikari2004/koding/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ankitadhikari2004/koding/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ankitadhikari1/koding/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -794,6 +795,7 @@
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/ankitadhikari2004/koding/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ankitadhikari2004/koding/tree/master/2442-number-of-arithmetic-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ankitadhikari1/koding/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankitadhikari1/koding/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankitadhikari1/koding/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ankitadhikari1/koding/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
