@@ -162,6 +162,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/ankitadhikari1/koding/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ankitadhikari2004/koding/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ankitadhikari2004/koding/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ankitadhikari1/koding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ankitadhikari1/koding/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/ankitadhikari2004/koding/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankitadhikari2004/koding/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -679,6 +680,7 @@
 | [2634-minimum-common-value](https://github.com/ankitadhikari2004/koding/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ankitadhikari2004/koding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ankitadhikari2004/koding/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ankitadhikari1/koding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ankitadhikari2004/koding/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankitadhikari2004/koding/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankitadhikari1/koding/tree/master/3483-unique-3-digit-even-numbers) |
@@ -1302,6 +1304,7 @@
 | [0307-range-sum-query-mutable](https://github.com/ankitadhikari2004/koding/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ankitadhikari2004/koding/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0406-queue-reconstruction-by-height](https://github.com/ankitadhikari2004/koding/tree/master/0406-queue-reconstruction-by-height) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ankitadhikari1/koding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankitadhikari2004/koding/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
@@ -1309,6 +1312,7 @@
 | [0307-range-sum-query-mutable](https://github.com/ankitadhikari2004/koding/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ankitadhikari2004/koding/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0406-queue-reconstruction-by-height](https://github.com/ankitadhikari2004/koding/tree/master/0406-queue-reconstruction-by-height) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ankitadhikari1/koding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankitadhikari2004/koding/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Brainteaser
 |  |
