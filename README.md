@@ -180,6 +180,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ankitadhikari2004/koding/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankitadhikari1/koding/tree/master/3483-unique-3-digit-even-numbers) |
 | [3533-snake-in-matrix](https://github.com/ankitadhikari2004/koding/tree/master/3533-snake-in-matrix) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ankitadhikari1/koding/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankitadhikari1/koding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ankitadhikari2004/koding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/ankitadhikari2004/koding/tree/master/3582-find-indices-of-stable-mountains) |
@@ -686,6 +687,7 @@
 | [3206-find-common-elements-between-two-arrays](https://github.com/ankitadhikari2004/koding/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankitadhikari2004/koding/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankitadhikari1/koding/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ankitadhikari1/koding/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankitadhikari1/koding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ankitadhikari2004/koding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ankitadhikari1/koding/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -867,6 +869,7 @@
 | [3226-minimum-number-game](https://github.com/ankitadhikari2004/koding/tree/master/3226-minimum-number-game) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankitadhikari1/koding/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ankitadhikari2004/koding/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ankitadhikari1/koding/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3647-zero-array-transformation-iii](https://github.com/ankitadhikari2004/koding/tree/master/3647-zero-array-transformation-iii) |
 | [3778-transform-array-by-parity](https://github.com/ankitadhikari2004/koding/tree/master/3778-transform-array-by-parity) |
 ## Heap (Priority Queue)
