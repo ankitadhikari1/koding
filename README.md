@@ -113,6 +113,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ankitadhikari2004/koding/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1552-build-an-array-with-stack-operations](https://github.com/ankitadhikari2004/koding/tree/master/1552-build-an-array-with-stack-operations) |
 | [1559-cherry-pickup-ii](https://github.com/ankitadhikari2004/koding/tree/master/1559-cherry-pickup-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitadhikari1/koding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ankitadhikari2004/koding/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/ankitadhikari2004/koding/tree/master/1580-shuffle-the-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankitadhikari2004/koding/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -319,6 +320,7 @@
 | [1492-time-needed-to-inform-all-employees](https://github.com/ankitadhikari2004/koding/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ankitadhikari2004/koding/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitadhikari1/koding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ankitadhikari1/koding/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ankitadhikari2004/koding/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/ankitadhikari2004/koding/tree/master/2384-root-equals-sum-of-children) |
@@ -445,6 +447,7 @@
 | [1254-deepest-leaves-sum](https://github.com/ankitadhikari2004/koding/tree/master/1254-deepest-leaves-sum) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ankitadhikari2004/koding/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitadhikari1/koding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ankitadhikari1/koding/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ankitadhikari2004/koding/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/ankitadhikari2004/koding/tree/master/2384-root-equals-sum-of-children) |
@@ -543,6 +546,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/ankitadhikari1/koding/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ankitadhikari2004/koding/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1448-maximum-69-number](https://github.com/ankitadhikari2004/koding/tree/master/1448-maximum-69-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitadhikari1/koding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1610-xor-operation-in-an-array](https://github.com/ankitadhikari2004/koding/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/ankitadhikari2004/koding/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ankitadhikari2004/koding/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -613,6 +617,7 @@
 | [1117-as-far-from-land-as-possible](https://github.com/ankitadhikari2004/koding/tree/master/1117-as-far-from-land-as-possible) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ankitadhikari2004/koding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1559-cherry-pickup-ii](https://github.com/ankitadhikari2004/koding/tree/master/1559-cherry-pickup-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitadhikari1/koding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/ankitadhikari1/koding/tree/master/1872-stone-game-viii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ankitadhikari2004/koding/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankitadhikari2004/koding/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -623,6 +628,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/ankitadhikari2004/koding/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ankitadhikari2004/koding/tree/master/1013-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitadhikari1/koding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Hash Table
 |  |
 | ------- |
@@ -947,6 +953,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ankitadhikari2004/koding/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/ankitadhikari2004/koding/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/ankitadhikari2004/koding/tree/master/0948-sort-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitadhikari1/koding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1122,6 +1129,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ankitadhikari2004/koding/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ankitadhikari2004/koding/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankitadhikari2004/koding/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitadhikari1/koding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankitadhikari2004/koding/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitadhikari1/koding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ankitadhikari2004/koding/tree/master/1675-magnetic-force-between-two-balls) |
@@ -1140,6 +1148,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitadhikari1/koding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankitadhikari2004/koding/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ankitadhikari2004/koding/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Database
@@ -1336,6 +1345,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ankitadhikari2004/koding/tree/master/0200-number-of-islands) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitadhikari1/koding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ankitadhikari1/koding/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Minimax
 |  |
@@ -1351,4 +1361,8 @@
 | [0032-longest-valid-parentheses](https://github.com/ankitadhikari1/koding/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ankitadhikari1/koding/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ankitadhikari1/koding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitadhikari1/koding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
