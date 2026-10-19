@@ -138,6 +138,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/ankitadhikari2004/koding/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/ankitadhikari2004/koding/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ankitadhikari2004/koding/tree/master/2058-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ankitadhikari1/koding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ankitadhikari1/koding/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankitadhikari2004/koding/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ankitadhikari2004/koding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -865,6 +866,7 @@
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ankitadhikari2004/koding/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1970-sorting-the-sentence](https://github.com/ankitadhikari2004/koding/tree/master/1970-sorting-the-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ankitadhikari2004/koding/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ankitadhikari1/koding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/ankitadhikari2004/koding/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankitadhikari1/koding/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankitadhikari2004/koding/tree/master/2379-maximum-total-importance-of-roads) |
@@ -1138,6 +1140,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/ankitadhikari2004/koding/tree/master/1675-magnetic-force-between-two-balls) |
 | [1753-path-with-minimum-effort](https://github.com/ankitadhikari2004/koding/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/ankitadhikari2004/koding/tree/master/2047-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ankitadhikari1/koding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankitadhikari2004/koding/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankitadhikari1/koding/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2634-minimum-common-value](https://github.com/ankitadhikari2004/koding/tree/master/2634-minimum-common-value) |
