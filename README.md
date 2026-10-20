@@ -193,6 +193,7 @@
 | [3832-minimum-cost-to-reach-every-position](https://github.com/ankitadhikari2004/koding/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankitadhikari1/koding/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ankitadhikari1/koding/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/ankitadhikari1/koding/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/ankitadhikari1/koding/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ankitadhikari1/koding/tree/master/3904-smallest-stable-index-ii) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/ankitadhikari2004/koding/tree/master/4012-earliest-time-to-finish-one-task) |
@@ -582,6 +583,7 @@
 | [3870-count-commas-in-range](https://github.com/ankitadhikari1/koding/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankitadhikari1/koding/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ankitadhikari1/koding/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/ankitadhikari1/koding/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -814,6 +816,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/ankitadhikari1/koding/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankitadhikari1/koding/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ankitadhikari1/koding/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/ankitadhikari1/koding/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
@@ -882,6 +885,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ankitadhikari1/koding/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3647-zero-array-transformation-iii](https://github.com/ankitadhikari2004/koding/tree/master/3647-zero-array-transformation-iii) |
 | [3778-transform-array-by-parity](https://github.com/ankitadhikari2004/koding/tree/master/3778-transform-array-by-parity) |
+| [3886-sum-of-sortable-integers](https://github.com/ankitadhikari1/koding/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
