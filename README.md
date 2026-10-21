@@ -783,6 +783,7 @@
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ankitadhikari1/koding/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ankitadhikari2004/koding/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/ankitadhikari2004/koding/tree/master/3811-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ankitadhikari1/koding/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankitadhikari2004/koding/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
 |  |
