@@ -186,6 +186,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankitadhikari1/koding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ankitadhikari2004/koding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/ankitadhikari2004/koding/tree/master/3582-find-indices-of-stable-mountains) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ankitadhikari1/koding/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3647-zero-array-transformation-iii](https://github.com/ankitadhikari2004/koding/tree/master/3647-zero-array-transformation-iii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ankitadhikari1/koding/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/ankitadhikari2004/koding/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -218,6 +219,7 @@
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/ankitadhikari2004/koding/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ankitadhikari2004/koding/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankitadhikari1/koding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ankitadhikari1/koding/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Queue
 |  |
 | ------- |
