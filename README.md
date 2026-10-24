@@ -566,6 +566,7 @@
 | [2206-detonate-the-maximum-bombs](https://github.com/ankitadhikari2004/koding/tree/master/2206-detonate-the-maximum-bombs) |
 | [2238-a-number-after-a-double-reversal](https://github.com/ankitadhikari2004/koding/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/ankitadhikari2004/koding/tree/master/2383-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/ankitadhikari1/koding/tree/master/2409-count-days-spent-together) |
 | [2481-strictly-palindromic-number](https://github.com/ankitadhikari2004/koding/tree/master/2481-strictly-palindromic-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ankitadhikari1/koding/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2571-find-the-pivot-integer](https://github.com/ankitadhikari2004/koding/tree/master/2571-find-the-pivot-integer) |
@@ -770,6 +771,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ankitadhikari2004/koding/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2401-count-asterisks](https://github.com/ankitadhikari2004/koding/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/ankitadhikari2004/koding/tree/master/2406-decode-the-message) |
+| [2409-count-days-spent-together](https://github.com/ankitadhikari1/koding/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ankitadhikari1/koding/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2502-sort-the-people](https://github.com/ankitadhikari2004/koding/tree/master/2502-sort-the-people) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ankitadhikari2004/koding/tree/master/2847-find-maximum-number-of-string-pairs) |
