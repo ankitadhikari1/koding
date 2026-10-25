@@ -102,6 +102,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/ankitadhikari2004/koding/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/ankitadhikari2004/koding/tree/master/1219-path-with-maximum-gold) |
 | [1241-decompress-run-length-encoded-list](https://github.com/ankitadhikari2004/koding/tree/master/1241-decompress-run-length-encoded-list) |
+| [1254-number-of-closed-islands](https://github.com/ankitadhikari1/koding/tree/master/1254-number-of-closed-islands) |
 | [1380-number-of-closed-islands](https://github.com/ankitadhikari2004/koding/tree/master/1380-number-of-closed-islands) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ankitadhikari2004/koding/tree/master/1395-minimum-time-visiting-all-points) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ankitadhikari2004/koding/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -391,6 +392,7 @@
 | [1104-coloring-a-border](https://github.com/ankitadhikari2004/koding/tree/master/1104-coloring-a-border) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ankitadhikari2004/koding/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/ankitadhikari2004/koding/tree/master/1254-deepest-leaves-sum) |
+| [1254-number-of-closed-islands](https://github.com/ankitadhikari1/koding/tree/master/1254-number-of-closed-islands) |
 | [1380-number-of-closed-islands](https://github.com/ankitadhikari2004/koding/tree/master/1380-number-of-closed-islands) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/ankitadhikari2004/koding/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ankitadhikari2004/koding/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -490,6 +492,7 @@
 | [1117-as-far-from-land-as-possible](https://github.com/ankitadhikari2004/koding/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ankitadhikari2004/koding/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/ankitadhikari2004/koding/tree/master/1219-path-with-maximum-gold) |
+| [1254-number-of-closed-islands](https://github.com/ankitadhikari1/koding/tree/master/1254-number-of-closed-islands) |
 | [1380-number-of-closed-islands](https://github.com/ankitadhikari2004/koding/tree/master/1380-number-of-closed-islands) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankitadhikari2004/koding/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/ankitadhikari2004/koding/tree/master/1559-cherry-pickup-ii) |
@@ -1097,6 +1100,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/ankitadhikari2004/koding/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ankitadhikari2004/koding/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/ankitadhikari2004/koding/tree/master/1254-deepest-leaves-sum) |
+| [1254-number-of-closed-islands](https://github.com/ankitadhikari1/koding/tree/master/1254-number-of-closed-islands) |
 | [1380-number-of-closed-islands](https://github.com/ankitadhikari2004/koding/tree/master/1380-number-of-closed-islands) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/ankitadhikari2004/koding/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/ankitadhikari2004/koding/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -1361,6 +1365,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ankitadhikari2004/koding/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/ankitadhikari1/koding/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitadhikari1/koding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ankitadhikari1/koding/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Minimax
