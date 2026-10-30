@@ -805,6 +805,7 @@
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ankitadhikari1/koding/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ankitadhikari1/koding/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankitadhikari2004/koding/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ankitadhikari1/koding/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -935,6 +936,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankitadhikari2004/koding/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3226-minimum-number-game](https://github.com/ankitadhikari2004/koding/tree/master/3226-minimum-number-game) |
 | [3647-zero-array-transformation-iii](https://github.com/ankitadhikari2004/koding/tree/master/3647-zero-array-transformation-iii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ankitadhikari1/koding/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1297,6 +1299,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/ankitadhikari2004/koding/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ankitadhikari2004/koding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ankitadhikari2004/koding/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ankitadhikari1/koding/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1407,4 +1410,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ankitadhikari1/koding/tree/master/0169-majority-element) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ankitadhikari1/koding/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
