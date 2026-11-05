@@ -105,6 +105,7 @@
 | [1241-decompress-run-length-encoded-list](https://github.com/ankitadhikari2004/koding/tree/master/1241-decompress-run-length-encoded-list) |
 | [1254-number-of-closed-islands](https://github.com/ankitadhikari1/koding/tree/master/1254-number-of-closed-islands) |
 | [1380-number-of-closed-islands](https://github.com/ankitadhikari2004/koding/tree/master/1380-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ankitadhikari1/koding/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ankitadhikari2004/koding/tree/master/1395-minimum-time-visiting-all-points) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ankitadhikari2004/koding/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/ankitadhikari2004/koding/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -887,6 +888,7 @@
 | [0917-boats-to-save-people](https://github.com/ankitadhikari2004/koding/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/ankitadhikari2004/koding/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitadhikari2004/koding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ankitadhikari1/koding/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/ankitadhikari2004/koding/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankitadhikari2004/koding/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ankitadhikari2004/koding/tree/master/1464-reduce-array-size-to-the-half) |
@@ -1019,6 +1021,7 @@
 | [0861-flipping-an-image](https://github.com/ankitadhikari2004/koding/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/ankitadhikari2004/koding/tree/master/0917-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ankitadhikari1/koding/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ankitadhikari2004/koding/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/ankitadhikari2004/koding/tree/master/2128-reverse-prefix-of-word) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankitadhikari2004/koding/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -1168,6 +1171,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/ankitadhikari2004/koding/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitadhikari2004/koding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ankitadhikari2004/koding/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ankitadhikari1/koding/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ankitadhikari2004/koding/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankitadhikari2004/koding/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitadhikari1/koding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
