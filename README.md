@@ -607,6 +607,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ankitadhikari2004/koding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ankitadhikari1/koding/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ankitadhikari2004/koding/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ankitadhikari1/koding/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3830-find-closest-person](https://github.com/ankitadhikari2004/koding/tree/master/3830-find-closest-person) |
 | [3870-count-commas-in-range](https://github.com/ankitadhikari1/koding/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankitadhikari1/koding/tree/master/3875-construct-uniform-parity-array-i) |
@@ -1077,6 +1078,7 @@
 | [3055-maximum-odd-binary-number](https://github.com/ankitadhikari2004/koding/tree/master/3055-maximum-odd-binary-number) |
 | [3647-zero-array-transformation-iii](https://github.com/ankitadhikari2004/koding/tree/master/3647-zero-array-transformation-iii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankitadhikari1/koding/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ankitadhikari1/koding/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Design
 |  |
 | ------- |
