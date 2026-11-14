@@ -174,6 +174,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ankitadhikari1/koding/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ankitadhikari1/koding/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/ankitadhikari2004/koding/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ankitadhikari1/koding/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankitadhikari2004/koding/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3188-find-champion-i](https://github.com/ankitadhikari2004/koding/tree/master/3188-find-champion-i) |
 | [3194-find-words-containing-character](https://github.com/ankitadhikari2004/koding/tree/master/3194-find-words-containing-character) |
