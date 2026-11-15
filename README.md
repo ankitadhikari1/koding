@@ -114,6 +114,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/ankitadhikari2004/koding/tree/master/1464-reduce-array-size-to-the-half) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitadhikari2004/koding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ankitadhikari2004/koding/tree/master/1505-create-target-array-in-the-given-order) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ankitadhikari1/koding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ankitadhikari2004/koding/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1552-build-an-array-with-stack-operations](https://github.com/ankitadhikari2004/koding/tree/master/1552-build-an-array-with-stack-operations) |
 | [1559-cherry-pickup-ii](https://github.com/ankitadhikari2004/koding/tree/master/1559-cherry-pickup-ii) |
@@ -262,6 +263,7 @@
 | [0410-split-array-largest-sum](https://github.com/ankitadhikari2004/koding/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ankitadhikari2004/koding/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankitadhikari2004/koding/tree/master/1046-max-consecutive-ones-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ankitadhikari1/koding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ankitadhikari2004/koding/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitadhikari1/koding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ankitadhikari2004/koding/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -584,6 +586,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/ankitadhikari1/koding/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ankitadhikari2004/koding/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1448-maximum-69-number](https://github.com/ankitadhikari2004/koding/tree/master/1448-maximum-69-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ankitadhikari1/koding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitadhikari1/koding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1610-xor-operation-in-an-array](https://github.com/ankitadhikari2004/koding/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/ankitadhikari2004/koding/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -658,6 +661,7 @@
 | [1013-fibonacci-number](https://github.com/ankitadhikari2004/koding/tree/master/1013-fibonacci-number) |
 | [1117-as-far-from-land-as-possible](https://github.com/ankitadhikari2004/koding/tree/master/1117-as-far-from-land-as-possible) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ankitadhikari2004/koding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ankitadhikari1/koding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1559-cherry-pickup-ii](https://github.com/ankitadhikari2004/koding/tree/master/1559-cherry-pickup-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitadhikari1/koding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/ankitadhikari1/koding/tree/master/1872-stone-game-viii) |
