@@ -212,6 +212,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/ankitadhikari1/koding/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/ankitadhikari1/koding/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ankitadhikari1/koding/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/ankitadhikari1/koding/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ankitadhikari1/koding/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/ankitadhikari2004/koding/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4058-compute-alternating-sum](https://github.com/ankitadhikari2004/koding/tree/master/4058-compute-alternating-sum) |
@@ -749,6 +750,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/ankitadhikari1/koding/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankitadhikari1/koding/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankitadhikari2004/koding/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3934-smallest-unique-subarray](https://github.com/ankitadhikari1/koding/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -1213,6 +1215,7 @@
 | [2634-minimum-common-value](https://github.com/ankitadhikari2004/koding/tree/master/2634-minimum-common-value) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankitadhikari2004/koding/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankitadhikari1/koding/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/ankitadhikari1/koding/tree/master/3934-smallest-unique-subarray) |
 ## Data Stream
 |  |
 | ------- |
@@ -1387,6 +1390,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ankitadhikari2004/koding/tree/master/0572-subtree-of-another-tree) |
+| [3934-smallest-unique-subarray](https://github.com/ankitadhikari1/koding/tree/master/3934-smallest-unique-subarray) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -1458,4 +1462,12 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ankitadhikari1/koding/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/ankitadhikari1/koding/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/ankitadhikari1/koding/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
